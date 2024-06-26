@@ -1,0 +1,244 @@
+{
+	"cert": [
+  {
+    "company": "HIPPOKRATIS AE",
+    "cert_code": "1141C02230504",
+    "issuance": "2023-05-29",
+    "expiration": "2025-04-29"
+  },
+  {
+    "company": "AKRA DERMOJET",
+    "cert_code": "1144C02221002",
+    "issuance": "2022-11-22",
+    "expiration": "2025-11-21"
+  },
+  {
+    "company": "sofemed International",
+    "cert_code": "1154C02230102",
+    "issuance": "16/01/2023",
+    "expiration": "15/01/2026"
+  },
+  {
+    "company": "Smart Tech Solution",
+    "cert_code": "1164C02230402",
+    "issuance": "2023-04-30",
+    "expiration": "2027-04-29"
+  },
+  {
+    "company": "SURGIMEDIC",
+    "cert_code": "1172C02231004",
+    "issuance": "2023-10-30",
+    "expiration": "2025-10-26"
+  },
+  {
+    "company": "Mavera Tıbbi Cihazlar A.Ş.",
+    "cert_code": "1181C02230802",
+    "issuance": "2023-08-26",
+    "expiration": "2026-08-27"
+  },
+  {
+    "company": "Atlas Medical S.A.",
+    "cert_code": "1193C02211101",
+    "issuance": "2021-11-01",
+    "expiration": "2024-10-31"
+  },
+  {
+    "company": "Scyon Orthopaedics AG",
+    "cert_code": "1224C02230502",
+    "issuance": "2023-07-29",
+    "expiration": "2026-07-28"
+  },
+  {
+    "company": "Egyptian group for medical industries",
+    "cert_code": "1227C02230403",
+    "issuance": "2023-04-20",
+    "expiration": "2026-04-14"
+  },
+  {
+    "company": "Taisiermed",
+    "cert_code": "1257C02220202",
+    "issuance": "2022-02-14",
+    "expiration": "2025-05-13"
+  },
+  {
+    "company": "MedWaves, Inc.",
+    "cert_code": "1258C02231102",
+    "issuance": "2023-11-27",
+    "expiration": "2026-11-26"
+  },
+  {
+    "company": "SmartCardia SA",
+    "cert_code": "1260C02230202",
+    "issuance": "2023-02-19",
+    "expiration": "2026-02-18"
+  },
+  {
+    "company": "Ultra For medical products Co.",
+    "cert_code": "1421C02230503",
+    "issuance": "2023-05-21",
+    "expiration": "2026-05-20"
+  },
+  {
+    "company": "EYE-PCR B.V.",
+    "cert_code": "1814C02230903",
+    "issuance": "2023-09-08",
+    "expiration": "2026-09-07"
+  },
+  {
+    "company": "SIDAPHARM P.C.",
+    "cert_code": "GR016490C02240602",
+    "issuance": "2024-06-09",
+    "expiration": "2027-06-08"
+  },
+  {
+    "company": "VERMA DRUGS S.A.",
+    "cert_code": "T13356C02240502",
+    "issuance": "2024-05-22",
+    "expiration": "2027-05-21"
+  },
+  {
+    "company": "Indiana Ophthalmics LLP",
+    "cert_code": "T16226C02240503",
+    "issuance": "2024-05-25",
+    "expiration": "2027-05-24"
+  },
+  {
+    "company": "ISOMed S.a.r.l.",
+    "cert_code": "FR018485C02240401",
+    "issuance": "2024-04-12",
+    "expiration": "2027-04-11"
+  },
+  {
+    "company": "Med Way Inc",
+    "cert_code": "T15618C02240503",
+    "issuance": "2024-06-12",
+    "expiration": "2027-05-22"
+  },
+  {
+    "company": "Medochemie Ltd",
+    "cert_code": "2211C02231202",
+    "issuance": "2023-12-14",
+    "expiration": "2026-12-13"
+  },
+  {
+    "company": "Agetis supplements Ltd",
+    "cert_code": "2229C02231202",
+    "issuance": "2023-12-14",
+    "expiration": "2026-12-13"
+  },
+  {
+    "company": "Demophorius Ltd",
+    "cert_code": "CY000624C02240504",
+    "issuance": "2024-05-25",
+    "expiration": "2027-05-24"
+  },
+  {
+    "company": "Rumex International Ltd.",
+    "cert_code": "GB023374C02240503",
+    "issuance": "2024-05-23",
+    "expiration": "2027-05-22"
+  },
+  {
+    "company": "GNOMON INFORMATICS S.A",
+    "cert_code": "T13296C02240502",
+    "issuance": "2024-05-24",
+    "expiration": "2027-05-23"
+  },
+  {
+    "company": "Aurolab",
+    "cert_code": "IN007255C02240503",
+    "issuance": "2021-05-23",
+    "expiration": "2024-05-22"
+  },
+  {
+    "company": "ALBSET-EU Sh.P.K",
+    "cert_code": "3082C02210901",
+    "issuance": "2021-09-22",
+    "expiration": "2024-09-21"
+  },
+  {
+    "company": "MEDIKA-HITEX",
+    "cert_code": "3733C02240302",
+    "issuance": "2024-03-05",
+    "expiration": "2027-02-25"
+  },
+  {
+    "company": "SOTHEMA",
+    "cert_code": "6327C02230702",
+    "issuance": "2023-07-26",
+    "expiration": "2025-05-09"
+  },
+  {
+    "company": "Fresenius medical care",
+    "cert_code": "6688C02230402",
+    "issuance": "2023-04-06",
+    "expiration": "2025-02-13"
+  },
+  {
+    "company": "CibusMed PC",
+    "cert_code": "8786C02220701",
+    "issuance": "2022-07-09",
+    "expiration": "2025-07-08"
+  },
+  {
+    "company": "Orthotin LLC",
+    "cert_code": "9495C02220601",
+    "issuance": "2022-06-06",
+    "expiration": "2025-06-05"
+  },
+  {
+    "company": "Ultralinq Healthcare Solutions Inc.",
+    "cert_code": "10121C02230301",
+    "issuance": "2023-03-10",
+    "expiration": "2026-03-09"
+  },
+  {
+    "company": "Louna Aesthetics",
+    "cert_code": "11444C02230601",
+    "issuance": "2023-06-21",
+    "expiration": "2026-06-20"
+  },
+  {
+    "company": "iKnowHealth S.A.",
+    "cert_code": "16755C02240301",
+    "issuance": "2024-03-16",
+    "expiration": "2027-03-15"
+  },
+  {
+    "company": "Modern Arch LLC",
+    "cert_code": "US037639C02240301",
+    "issuance": "2024-03-29",
+    "expiration": "2027-03-28"
+  },
+  {
+    "company": "Kougioumtzis M and Co L.P",
+    "cert_code": "GR015985C02240401",
+    "issuance": "2024-04-29",
+    "expiration": "2027-04-28"
+  },
+  {
+    "company": "Ortho Cape",
+    "cert_code": "FR028862C02240501",
+    "issuance": "2024-05-15",
+    "expiration": "2027-04-14"
+  },
+  {
+    "company": "TH. KAZANTZIDIS SA - MEDIPAC",
+    "cert_code": "GR027637C02240501",
+    "issuance": "2024-05-17",
+    "expiration": "2027-05-16"
+  },
+  {
+    "company": "“MEDALKAN” TECHNIKI EMPORIKI STAVRIDIS LTD",
+    "cert_code": "T13180C02240501",
+    "issuance": "2024-05-17",
+    "expiration": "2027-05-16"
+  },
+  {
+    "company": "DMP Dental Industry S.A.",
+    "cert_code": "GR019283C02240502",
+    "issuance": "2024-05-24",
+    "expiration": "2027-05-23"
+  }
+]
+}
