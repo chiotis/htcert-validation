@@ -1,5 +1,16 @@
 {
 	"cert": [
-    
-  ]
+  {
+    "company": "DMP Dental Industry S.A.",
+    "cert_code": "C09 GR019283 2405 Rev.00",
+    "issuance": "2024-05-24",
+    "expiration": "2029-05-23"
+  },
+  {
+    "company": "DEMOPHORIUS LTD",
+    "cert_code": "C08 CY000624 2406 Rev.00",
+    "issuance": "2024-06-12",
+    "expiration": "2029-06-11"
+  }
+]
 }
