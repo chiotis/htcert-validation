@@ -86,8 +86,8 @@
   },
   {
     "company": "SIDAPHARM P.C.",
-    "cert_code": "GR016490C02240602",
-    "issuance": "2024-06-09",
+    "cert_code": "C02 GR016490 2406 Rev.01",
+    "issuance": "2024-08-01",
     "expiration": "2027-06-08"
   },
   {
@@ -121,6 +121,12 @@
     "expiration": "2026-12-13"
   },
   {
+    "company": "IZMIR MEDIKAL SANAYI VE TICARET ANONIM SIRKET",
+    "cert_code": "C02 T15538 2405 Rev.00",
+    "issuance": "2024-05-24",
+    "expiration": "2027-05-23"
+  },
+  {
     "company": "Agetis supplements Ltd",
     "cert_code": "2229C02231202",
     "issuance": "2023-12-14",
@@ -152,9 +158,9 @@
   },
   {
     "company": "ALBSET-EU Sh.P.K",
-    "cert_code": "3082C02210901",
-    "issuance": "2021-09-22",
-    "expiration": "2024-09-21"
+    "cert_code": "C02 AL031133 2409 Rev.00",
+    "issuance": "2024-09-22",
+    "expiration": "2027-09-21"
   },
   {
     "company": "MEDIKA-HITEX",
@@ -239,6 +245,24 @@
     "cert_code": "GR019283C02240502",
     "issuance": "2024-05-24",
     "expiration": "2027-05-23"
+  },
+  {
+    "company": "STROUMPOS H E-DENTAL",
+    "cert_code": "C02 T13441 2408 Rev.01",
+    "issuance": "2024-08-26",
+    "expiration": "2027-08-25"
+  },
+  {
+    "company": "PRONOVA MEDİKAL SİSTEMLER SAN. VE TİC. LTD. ŞTİ.",
+    "cert_code": "C02 TR034180 2408 Rev.01",
+    "issuance": "2024-08-29",
+    "expiration": "2027-08-28"
+  },
+  {
+    "company": "Rumex International Co.",
+    "cert_code": "C02 T15687 2409 Rev.00",
+    "issuance": "2024-09-20",
+    "expiration": "2027-09-19"
   }
 ]
 }
