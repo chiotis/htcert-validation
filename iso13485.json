@@ -15,8 +15,8 @@
   {
     "company": "sofemed International",
     "cert_code": "1154C02230102",
-    "issuance": "16/01/2023",
-    "expiration": "15/01/2026"
+    "issuance": "2023-01-16",
+    "expiration": "2026-01-15"
   },
   {
     "company": "Smart Tech Solution",
@@ -263,6 +263,18 @@
     "cert_code": "C02 T15687 2409 Rev.00",
     "issuance": "2024-09-20",
     "expiration": "2027-09-19"
+  },
+  {
+    "company": "Blumont Healthcare Limited",
+    "cert_code": "C02 GB010003 2410 Rev.00",
+    "issuance": "2024-10-01",
+    "expiration": "2027-09-30"
+  },
+  {
+    "company": "Help SA",
+    "cert_code": "C02 GR019269 2410 Rev.00",
+    "issuance": "2024-10-10",
+    "expiration": "2027-10-09"
   }
 ]
 }
