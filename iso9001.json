@@ -59,6 +59,12 @@
     "cert_code": "T13180C01240501",
     "issuance": "2024-05-17",
     "expiration": "2027-05-16"
+  },
+  {
+    "company": "Nephroclinic S.A.",
+    "cert_code": "C01 T15609 2411 Rev.00",
+    "issuance": "2024-11-08",
+    "expiration": "2027-11-07"
   }
 ]
 }
