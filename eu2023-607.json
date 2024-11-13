@@ -160,11 +160,6 @@
     "confirmation_letter": "TR_017437_2024_03",
     "issuance": "2024-05-22"
   },
-		{
-    "company": "Aysam Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd.Şti.",
-    "confirmation_letter": "TR_017437_2024_06",
-    "issuance": "2024-08-21"
-  },
   {
     "company": "Demophorius Limited",
     "confirmation_letter": "CY_000624_2024_03",
@@ -199,11 +194,6 @@
     "company": "Ortimplant Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd. Sti.",
     "confirmation_letter": "TR_017438_2024_04",
     "issuance": "2024-06-21"
-  },
-  {
-    "company": "Ortimplant Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd. Sti.",
-    "confirmation_letter": "TR_017438_2024_05",
-    "issuance": "2024-08-21"
   },
   {
     "company": "GRUPA MEDİKAL TEKSTİL TIBBİ MAL.İKLİM.SAN.VE TİC.LTD.ŞTİ.",
@@ -292,8 +282,8 @@
   },
   {
     "company": "BODERM PHARMACEUTICAL SA",
-    "confirmation_letter": "T15975_2024_01",
-    "issuance": "2024-08-26"
+    "confirmation_letter": "T15975_2024_02",
+    "issuance": "2024-09-26"
   },
   {
     "company": "Appasamy Associates Private Limited",
@@ -302,8 +292,8 @@
   },
   {
     "company": "indiana ophthalmics",
-    "confirmation_letter": "T16226_2024_01",
-    "issuance": "2024-09-09"
+    "confirmation_letter": "T16226_2024_02",
+    "issuance": "2024-10-21"
   },
   {
     "company": "Albset-EU Sh.P.K",
@@ -337,8 +327,8 @@
   },
   {
     "company": "Extremity Medical",
-    "confirmation_letter": "US_018334_2024_01",
-    "issuance": "2024-06-04"
+    "confirmation_letter": "US_018334_2024_02",
+    "issuance": "2024-09-26"
   },
   {
     "company": "GEROLYMATOS INTERNATIONAL S.A.",
@@ -397,7 +387,7 @@
   },
   {
     "company": "Phytopharm Klęka SA",
-    "confirmation_letter": "T_15221_2024_01",
+    "confirmation_letter": "T_15521_2024_01",
     "issuance": "2024-09-26"
   },
   {
@@ -424,6 +414,16 @@
     "company": "Sofemed International",
     "confirmation_letter": "TN_005041_2024_01",
     "issuance": "2024-09-26"
+  },
+  {
+    "company": "Aysam Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd.Şti.",
+    "confirmation_letter": "TR_017437_2024_06",
+    "issuance": "2024-08-21"
+  },
+  {
+    "company": "Ortimplant Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd. Sti.",
+    "confirmation_letter": "TR_017438_2024_05",
+    "issuance": "2024-08-21"
   }
 ]
 }
