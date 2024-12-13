@@ -11,6 +11,12 @@
     "cert_code": "C08 CY000624 2406 Rev.00",
     "issuance": "2024-06-12",
     "expiration": "2029-06-11"
+  },
+  {
+    "company": "Ionic Health Technologies S.A.",
+    "cert_code": "C08 BR039811 2412 Rev.00",
+    "issuance": "2024-12-11",
+    "expiration": "2029-12-10"
   }
 ]
 }
