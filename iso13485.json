@@ -287,6 +287,18 @@
     "cert_code": "C02 T15609 2411 Rev.00",
     "issuance": "2024-11-08",
     "expiration": "2027-11-07"
+  },
+  {
+    "company": "DELTEX",
+    "cert_code": "C02 FR002872 2412 Rev.00",
+    "issuance": "2024-12-09",
+    "expiration": "2027-12-08"
+  },
+  {
+    "company": "SCIENTRONICS LTD",
+    "cert_code": "C02 QMS20360 2412 Rev.00",
+    "issuance": "2024-12-10",
+    "expiration": "2027-12-09"
   }
 ]
 }
