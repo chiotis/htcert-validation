@@ -37,12 +37,6 @@
     "expiration": "2026-08-27"
   },
   {
-    "company": "Atlas Medical S.A.",
-    "cert_code": "1193C02211101",
-    "issuance": "2021-11-01",
-    "expiration": "2024-10-31"
-  },
-  {
     "company": "Scyon Orthopaedics AG",
     "cert_code": "1224C02230502",
     "issuance": "2023-07-29",
@@ -299,6 +293,12 @@
     "cert_code": "C02 QMS20360 2412 Rev.00",
     "issuance": "2024-12-10",
     "expiration": "2027-12-09"
+  },
+  {
+    "company": "Alesi Surgical Ltd",
+    "cert_code": "C02 GB003881 2412 Rev.00",
+    "issuance": "2024-12-16",
+    "expiration": "2027-12-15"
   }
 ]
 }
