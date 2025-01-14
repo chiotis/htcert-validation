@@ -17,6 +17,18 @@
     "cert_code": "C08 BR039811 2412 Rev.00",
     "issuance": "2024-12-11",
     "expiration": "2029-12-10"
+  },
+  {
+    "company": "Th. Kazantzidis S.A. - MEDIPAC",
+    "cert_code": "C08 GR027637 2412 Rev.00",
+    "issuance": "2024-12-20",
+    "expiration": "2029-12-19"
+  },
+  {
+    "company": "Th. Kazantzidis S.A. - MEDIPAC",
+    "cert_code": "C07 GR027637 2412 Rev.00",
+    "issuance": "2024-12-20",
+    "expiration": "2029-12-19"
   }
 ]
 }
