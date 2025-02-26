@@ -15,8 +15,8 @@
   {
     "company": "sofemed International",
     "cert_code": "1154C02230102",
-    "issuance": "16/01/2023",
-    "expiration": "15/01/2026"
+    "issuance": "2023-01-16",
+    "expiration": "2026-01-15"
   },
   {
     "company": "Smart Tech Solution",
@@ -50,9 +50,9 @@
   },
   {
     "company": "Taisiermed",
-    "cert_code": "1257C02220202",
-    "issuance": "2022-02-14",
-    "expiration": "2025-05-13"
+    "cert_code": "C02 EG013855 2502 Rev.00",
+    "issuance": "2025-02-14",
+    "expiration": "2028-02-13"
   },
   {
     "company": "MedWaves, Inc.",
@@ -147,8 +147,8 @@
   {
     "company": "Aurolab",
     "cert_code": "IN007255C02240503",
-    "issuance": "2021-05-23",
-    "expiration": "2024-05-22"
+    "issuance": "2024-05-23",
+    "expiration": "2027-05-22"
   },
   {
     "company": "ALBSET-EU Sh.P.K",
@@ -170,9 +170,9 @@
   },
   {
     "company": "Fresenius medical care",
-    "cert_code": "6688C02230402",
-    "issuance": "2023-04-06",
-    "expiration": "2025-02-13"
+    "cert_code": "C02 EG029042 2502 Rev.00",
+    "issuance": "2025-02-14",
+    "expiration": "2028-02-13"
   },
   {
     "company": "CibusMed PC",
@@ -289,9 +289,9 @@
     "expiration": "2027-12-08"
   },
   {
-    "company": "SCIENTRONICS LTD",
-    "cert_code": "C02 QMS20360 2412 Rev.00",
-    "issuance": "2024-12-10",
+    "company": "CPO SCIENTRONICS LTD",
+    "cert_code": "C02 QMS20360 2412 Rev.01",
+    "issuance": "2025-01-24",
     "expiration": "2027-12-09"
   },
   {
