@@ -157,12 +157,6 @@
     "expiration": "2027-09-21"
   },
   {
-    "company": "MEDIKA-HITEX",
-    "cert_code": "3733C02240302",
-    "issuance": "2024-03-05",
-    "expiration": "2027-02-25"
-  },
-  {
     "company": "SOTHEMA",
     "cert_code": "6327C02230702",
     "issuance": "2023-07-26",
@@ -299,6 +293,18 @@
     "cert_code": "C02 GB003881 2412 Rev.00",
     "issuance": "2024-12-16",
     "expiration": "2027-12-15"
+  },
+  {
+    "company": "Extremity Medical",
+    "cert_code": "C02 US018334 2502 Rev.00",
+    "issuance": "2025-02-25",
+    "expiration": "2028-02-24"
+  },
+  {
+    "company": "C.A. PAPAELLINAS LTD",
+    "cert_code": "C02 QMS19376 2502 Rev.00",
+    "issuance": "2025-02-21",
+    "expiration": "2028-02-20"
   }
 ]
 }
