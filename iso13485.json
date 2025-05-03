@@ -2,9 +2,9 @@
 	"cert": [
   {
     "company": "HIPPOKRATIS AE",
-    "cert_code": "1141C02230504",
-    "issuance": "2023-05-29",
-    "expiration": "2025-04-29"
+    "cert_code": "C02 T014488 2504 Rev.00",
+    "issuance": "2025-04-30",
+    "expiration": "2028-04-29"
   },
   {
     "company": "AKRA DERMOJET",
@@ -15,8 +15,8 @@
   {
     "company": "sofemed International",
     "cert_code": "1154C02230102",
-    "issuance": "2023-01-16",
-    "expiration": "2026-01-15"
+    "issuance": "16/01/2023",
+    "expiration": "15/01/2026"
   },
   {
     "company": "Smart Tech Solution",
@@ -305,6 +305,24 @@
     "cert_code": "C02 QMS19376 2502 Rev.00",
     "issuance": "2025-02-21",
     "expiration": "2028-02-20"
+  },
+  {
+    "company": "Kinisiforo Ltd",
+    "cert_code": "C02 QMS22785 2504 Rev.00",
+    "issuance": "2025-04-14",
+    "expiration": "2028-04-13"
+  },
+  {
+    "company": "MEL Medical GmbH",
+    "cert_code": "C02 DE042395 2504 Rev.00",
+    "issuance": "2025-04-11",
+    "expiration": "2028-04-10"
+  },
+  {
+    "company": "Progressive Orthodontics USA",
+    "cert_code": "C02 US045054 2503 Rev.00",
+    "issuance": "2025-04-01",
+    "expiration": "2028-03-31"
   }
 ]
 }
