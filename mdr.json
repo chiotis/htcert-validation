@@ -47,6 +47,12 @@
     "cert_code": "C08 GB003881 2503 Rev.00",
     "issuance": "2025-03-24",
     "expiration": "2030-03-23"
+  },
+  {
+    "company": "MEL Medical GmbH",
+    "cert_code": "C09 DE042395 2504 Rev.00",
+    "issuance": "2025-04-11",
+    "expiration": "2030-04-10"
   }
 ]
 }
