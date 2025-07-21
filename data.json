@@ -241,12 +241,6 @@
     "expiration": "2025-08-21"
   },
   {
-    "company": "CAREPRO Ι.Κ.Ε.",
-    "cert_code": "12930 C06 24 06 02",
-    "issuance": "2024-06-02",
-    "expiration": "2025-06-01"
-  },
-  {
     "company": "LG MEDICAL ΜΟΝ ΕΠΕ",
     "cert_code": "12933 C06 24 12 02",
     "issuance": "2024-12-09",
@@ -257,12 +251,6 @@
     "cert_code": "12953 C06 24 09 02",
     "issuance": "2024-09-30",
     "expiration": "2025-09-29"
-  },
-  {
-    "company": "RAMMA DENTAL Ι.Κ.Ε.",
-    "cert_code": "13098 C06 24 06 02",
-    "issuance": "2024-06-08",
-    "expiration": "2025-06-07"
   },
   {
     "company": "GROUP MEDICAL PURCHASING ΜΑΕ",
@@ -277,28 +265,10 @@
     "expiration": "2025-07-11"
   },
   {
-    "company": "ΤΣΟΠΑΝΟΓΛΟΥ ΔΗΜΗΤΡΗΣ ΜΟΝ ΙΚΕ",
-    "cert_code": "13343 C06 24 06 02",
-    "issuance": "2024-06-17",
-    "expiration": "2025-06-16"
-  },
-  {
-    "company": "RIGAS LABS",
-    "cert_code": "13356 C06 24 06 02",
-    "issuance": "2024-06-15",
-    "expiration": "2025-06-14"
-  },
-  {
     "company": "ΧΡΙΣΤΟΔΟΥΛΟΣ ΑΝΑΓΝΩΣΤΟΥ ΚΑΙ ΣΙΑ ΕΕ",
     "cert_code": "13361 C06 24 07 02",
     "issuance": "2024-07-06",
     "expiration": "2025-07-05"
-  },
-  {
-    "company": "ΕΛΕΝΗ ΑΡΙΣΤΟΤΕΛΗ ΚΑΚΙΑ",
-    "cert_code": "13374 C06 24 06 02",
-    "issuance": "2024-06-17",
-    "expiration": "2025-06-16"
   },
   {
     "company": "ΤΙ ΤΖΕΪ ΜΕΝΤ Ι Κ Ε",
@@ -311,24 +281,6 @@
     "cert_code": "13437 C06 24 07 02",
     "issuance": "2024-07-10",
     "expiration": "2025-07-09"
-  },
-  {
-    "company": "ΓΕΩΡΓΙΟΣ ΛΟΗΣ ΣΙΑ ΕΕ",
-    "cert_code": "13446 C06 24 06 02",
-    "issuance": "2024-06-21",
-    "expiration": "2025-06-20"
-  },
-  {
-    "company": "ΣΤΙΛΒΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΕΜΠΟΡΙΑΣ ΦΑΡΜΑΚΩΝ ΚΑΙ ΚΑΛΛΥΝΤΙΚΩΝ",
-    "cert_code": "13461 C06 24 06 02",
-    "issuance": "2024-06-19",
-    "expiration": "2025-06-18"
-  },
-  {
-    "company": "ALLMED EE",
-    "cert_code": "13469 C06 24 06 02",
-    "issuance": "2024-06-27",
-    "expiration": "2025-06-26"
   },
   {
     "company": "ΑΡΤΙΟΝ ΙΑΤΡΟΤΕΧΝΟΛΟΓΙΚΑ ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ",
@@ -847,12 +799,6 @@
     "expiration": "2025-11-16"
   },
   {
-    "company": "VIMATRONIX Α.Ε. Ιατρικά Μηχανήματα",
-    "cert_code": "1554 C06 24 06 06",
-    "issuance": "2024-06-03",
-    "expiration": "2025-06-02"
-  },
-  {
     "company": "CLEAR SOUND\" ΚΑΝΕΛΛΑΚΟΠΟΥΛΟΣ ΚΑΝΕΛΛΟΣ - ΑΔΑΜΟΠΟΥΛΟΣ ΣΩΤΗΡΙΟΣ Ε.Ε.",
     "cert_code": "15555 C06 24 12 02",
     "issuance": "2024-12-11",
@@ -1309,12 +1255,6 @@
     "expiration": "2025-12-08"
   },
   {
-    "company": "ΡΧ ΙΑΤΡΙΚΗ ΥΠΟΣΤΗΡΙΞΗ Μ. Ε.Π.Ε.",
-    "cert_code": "1736 C06 24 06 05",
-    "issuance": "2024-06-17",
-    "expiration": "2025-06-16"
-  },
-  {
     "company": "SIGMA TRADE Μ.Ι.Κ.Ε.",
     "cert_code": "1738 C06 24 11 06",
     "issuance": "2024-11-21",
@@ -1579,12 +1519,6 @@
     "expiration": "2025-12-09"
   },
   {
-    "company": "ΑΝΔΡΟΝΙΚΟΣ ΒΑΣΙΛΕΙΟΣ ΤΟΥ ΠΑΥΛΟΥ",
-    "cert_code": "18297 C06 24 06 01",
-    "issuance": "2024-06-11",
-    "expiration": "2025-06-10"
-  },
-  {
     "company": "METAΦOPIKH ΛΙΝΑΡΔΑΚΗ",
     "cert_code": "18298 C06 24 07 01",
     "issuance": "2024-07-18",
@@ -1633,12 +1567,6 @@
     "expiration": "2025-12-05"
   },
   {
-    "company": "MEDICAL EQUIPMENT PCC",
-    "cert_code": "18409 C06 24 06 01",
-    "issuance": "2024-06-10",
-    "expiration": "2025-06-09"
-  },
-  {
     "company": "C & P MEDICALS Ο.Ε.",
     "cert_code": "1841 C06 24 12 06",
     "issuance": "2024-12-02",
@@ -1661,12 +1589,6 @@
     "cert_code": "1844 C06 24 12 06",
     "issuance": "2024-12-23",
     "expiration": "2025-12-22"
-  },
-  {
-    "company": "ΦΙΛΟΚΩΣΤΑ ΕΥΑΝΘΙΑ",
-    "cert_code": "18547 C06 24 06 01",
-    "issuance": "2024-06-24",
-    "expiration": "2025-06-23"
   },
   {
     "company": "ΣΕΜΕΡΤΖΗ Ρ. – ΜΠΑΛΤΖΗ ΜΕΜΕΤ Β. Ο.Ε. “ORTHOMEDICAL LIFE”",
@@ -1697,12 +1619,6 @@
     "cert_code": "18645 C06 24 07 01",
     "issuance": "2024-07-07",
     "expiration": "2025-07-06"
-  },
-  {
-    "company": "INTRAMED ΕΠΕ",
-    "cert_code": "18655 C06 24 06 01",
-    "issuance": "2024-06-24",
-    "expiration": "2025-06-23"
   },
   {
     "company": "ΚΟΥΚΟΥΡΑΒΑ Β. - ΑΝΑΓΝΩΣΤΟΠΟΥΛΟΣ ΑΘ. Ο.Ε.",
@@ -2089,12 +2005,6 @@
     "expiration": "2026-01-28"
   },
   {
-    "company": "ΠΑΠΑΝΙΚΟΛΑΟΥ ΧΡΗΣΤΟΣ & ΣΙΑ ΕΤΕΡΟΡΡΥΘΜΗ ΕΤΑΙΡΕΙΑ",
-    "cert_code": "1943 C06 25 01 06",
-    "issuance": "2025-01-13",
-    "expiration": "2025-06-02"
-  },
-  {
     "company": "ΓΕΡΑΚΙΑΝΑΚΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ",
     "cert_code": "19436  C06 24 08 01",
     "issuance": "2024-08-29",
@@ -2153,12 +2063,6 @@
     "cert_code": "1950 C06 24 11 06",
     "issuance": "2024-11-18",
     "expiration": "2025-11-17"
-  },
-  {
-    "company": "ΔΗΜΗΤΡΙΟΣ ΔΟΔΟΥΣΗΣ ΚΑΙ ΣΙΑ Ε Ε",
-    "cert_code": "1951 C06 24 06 05",
-    "issuance": "2024-06-02",
-    "expiration": "2025-06-01"
   },
   {
     "company": "SPORTSWIND ΕΜΠΟΡΙΑ ΕΙΔΩΝ ΕΝΔΥΣΗΣ ΚΑΙ ΥΠΟΔΗΣΗΣ ΜΟΝΟΠΡΟΣΩΠΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
@@ -2467,12 +2371,6 @@
     "expiration": "2026-03-19"
   },
   {
-    "company": "Βαλαώρας Αθ. - Μουρσελάς Νικ. Ο.Ε. ‘ACTIVIA MEDICAL’",
-    "cert_code": "2025 C06 24 06 05",
-    "issuance": "2024-06-10",
-    "expiration": "2025-06-09"
-  },
-  {
     "company": "THERMOGRAFICA HELLAS ΕΠΕ",
     "cert_code": "20260 C06 24 11 01",
     "issuance": "2024-11-06",
@@ -2489,12 +2387,6 @@
     "cert_code": "2028 C06 25 03 04",
     "issuance": "2025-03-11",
     "expiration": "2026-03-10"
-  },
-  {
-    "company": "ΤΣΟΜΠΑΝΙΔΗΣ ΙΩΑΝ. ΑΘΑΝΑΣΙΟΣ",
-    "cert_code": "2031 C06 24 06 05",
-    "issuance": "2024-06-22",
-    "expiration": "2025-06-21"
   },
   {
     "company": "GP PRODUCTS A.E.",
@@ -2569,12 +2461,6 @@
     "expiration": "2025-12-08"
   },
   {
-    "company": "ΑΝΤΩΝΙΟΣ ΣΑΛΜΑΣ ‘ΠΝΕΥΣΙΣ’",
-    "cert_code": "2048 C06 24 12 07",
-    "issuance": "2024-12-03",
-    "expiration": "2025-06-05"
-  },
-  {
     "company": "GMK MEDICAL ΜΟΝΟΠΡΟΣΩΠΗ Ε.Π.Ε.",
     "cert_code": "2049 C06 24 07 05",
     "issuance": "2024-07-10",
@@ -2597,12 +2483,6 @@
     "cert_code": "20506 C06 24 11 01",
     "issuance": "2024-11-26",
     "expiration": "2025-11-25"
-  },
-  {
-    "company": "ΠΑΥΛΑΚΗΣ ΧΑΡΑΛΑΜΠΟΣ \"ΕΥΗΚΟΟΝ",
-    "cert_code": "2053 C06 24 06 05",
-    "issuance": "2024-06-02",
-    "expiration": "2025-06-01"
   },
   {
     "company": "ΑΛΕΞΙΟΥ ΣΩΤΗΡΙΟΣ & ΣΙΑ Ε.Ε.",
@@ -2707,12 +2587,6 @@
     "expiration": "2025-12-12"
   },
   {
-    "company": "Σ. ΔΟΥΡΑΚΟΣ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ",
-    "cert_code": "2099 C06 24 06 05",
-    "issuance": "2024-06-17",
-    "expiration": "2025-06-16"
-  },
-  {
     "company": "ΟLITECN LAB EQUIPMENT E.E",
     "cert_code": "2100 C06 24 07 05",
     "issuance": "2024-07-16",
@@ -2749,28 +2623,10 @@
     "expiration": "2025-12-19"
   },
   {
-    "company": "MEDISTEM ΙΚΕ",
-    "cert_code": "2113 C06 24 06 04",
-    "issuance": "2024-06-18",
-    "expiration": "2025-06-17"
-  },
-  {
     "company": "MEDICAL WISE O.E.",
     "cert_code": "21139 C06 24 12 01",
     "issuance": "2024-12-18",
     "expiration": "2025-12-17"
-  },
-  {
-    "company": "HEALTH AIR ΜΟΝ. I.KE",
-    "cert_code": "2117 C06 24 06 05",
-    "issuance": "2024-06-22",
-    "expiration": "2025-06-21"
-  },
-  {
-    "company": "ΦΙΛΙΠΠΟΣ ΚΟΥΛΟΥΡΗΣ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ",
-    "cert_code": "2121 C06 24 06 05",
-    "issuance": "2024-06-25",
-    "expiration": "2025-06-24"
   },
   {
     "company": "MEDIQUEST ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ",
@@ -2803,18 +2659,6 @@
     "expiration": "2025-12-29"
   },
   {
-    "company": "EPIDERMICA ΜΟΝ ΙΚΕ",
-    "cert_code": "2133 C06 24 05 05",
-    "issuance": "2024-06-22",
-    "expiration": "2025-06-21"
-  },
-  {
-    "company": "ΦΑΡΜΑΚΑΠΟΘΗΚΗ Μ. Δ. ΠΑΝΟΥ Α.Ε - MP PHARMA A.E.",
-    "cert_code": "2135 C06 24 06 05",
-    "issuance": "2024-06-27",
-    "expiration": "2025-06-26"
-  },
-  {
     "company": "HEALTH PROTECT E.E.",
     "cert_code": "21358 C06 25 01 01",
     "issuance": "2025-01-19",
@@ -2839,12 +2683,6 @@
     "expiration": "2025-08-07"
   },
   {
-    "company": "ΑΦΟΙ ΔΗΜΗΤΡΟΠΟΥΛΟΙ Ο.Ε",
-    "cert_code": "2145 C06 24 06 05",
-    "issuance": "2024-06-27",
-    "expiration": "2025-06-26"
-  },
-  {
     "company": "ΜΟΥΖΟΥΡΑΚΗ ΟΥΡΑΝΙΑ",
     "cert_code": "21471 C06 25 01 01",
     "issuance": "2025-01-20",
@@ -2857,12 +2695,6 @@
     "expiration": "2026-01-19"
   },
   {
-    "company": "ΦΟΥΝΤΟΥΚΙΔΗΣ ΒΑΣΙΛΕΙΟΣ & ΣIA Ο.Ε",
-    "cert_code": "2148 C06 24 05 05",
-    "issuance": "2024-06-27",
-    "expiration": "2025-06-26"
-  },
-  {
     "company": "SWIS DIAGNOSTIC ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ",
     "cert_code": "21487 C06 25 01 01",
     "issuance": "2025-01-28",
@@ -2873,12 +2705,6 @@
     "cert_code": "21526 C06 25 02 01",
     "issuance": "2025-02-20",
     "expiration": "2026-02-19"
-  },
-  {
-    "company": "ΚΑΤΙΦΕΣ ΔΗΜΗΤΡΗΣ ‘SD MEDICAL’",
-    "cert_code": "2154 C06 24 06 05",
-    "issuance": "2024-06-10",
-    "expiration": "2025-06-09"
   },
   {
     "company": "IDX ΙΔΙΩΤΙΚΗ ΚΕΦΑΛΑΙΟΥΧΙΚΗ ΕΤΑΙΡΕΙΑ ΠΡΟΙΟΝΤΩΝ ΚΑΙ ΕΦΑΡΜΟΓΩΝ ΒΙΟΤΕΧΝΟΛΟΓΙΑΣ",
@@ -2903,12 +2729,6 @@
     "cert_code": "2161 C06 24 07 05",
     "issuance": "2024-07-27",
     "expiration": "2025-07-26"
-  },
-  {
-    "company": "MEDICALNET ΦΑΡΜΑΚΑΠΟΘΗΚΗ ΜΟΝ ΕΠΕ",
-    "cert_code": "2162 C06 24 06 05",
-    "issuance": "2024-06-11",
-    "expiration": "2025-06-10"
   },
   {
     "company": "ΔΗΜΑ ΑΙΚΑΤΕΡΙΝΗ & ΣΙΑ Ο.Ε EVRIPOS GASES",
@@ -2959,18 +2779,6 @@
     "expiration": "2026-02-16"
   },
   {
-    "company": "ACCESSMED Ι.Κ.Ε. 'ΚΑΡΑΓΙΑΝΝΗ ΙΑΤΡΙΚΑ'",
-    "cert_code": "2185 C06 24 06 05",
-    "issuance": "2024-06-06",
-    "expiration": "2025-06-05"
-  },
-  {
-    "company": "MEDTEQ ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ",
-    "cert_code": "2186  C06 24 06 05",
-    "issuance": "2024-06-13",
-    "expiration": "2025-06-12"
-  },
-  {
     "company": "WINGS ICT Solutions Τεχνολογίες Πληροφορικής & Επικοινωνιών Ανώνυμη Εταιρεία",
     "cert_code": "21872 C06 25 02 01",
     "issuance": "2025-02-13",
@@ -2981,12 +2789,6 @@
     "cert_code": "21877 C06 25 02 01",
     "issuance": "2025-02-26",
     "expiration": "2026-02-25"
-  },
-  {
-    "company": "EIFRON Α.Ε.Ε.Ε.",
-    "cert_code": "2188 C06 24 06 05",
-    "issuance": "2024-06-15",
-    "expiration": "2025-06-14"
   },
   {
     "company": "OMICRON HEALTH",
@@ -3007,12 +2809,6 @@
     "expiration": "2026-02-08"
   },
   {
-    "company": "ΚΙΛΙΚΛΗ ΕΥΑΓΓΕΛΙΑ",
-    "cert_code": "2198 C06 24 06 05",
-    "issuance": "2024-06-15",
-    "expiration": "2025-06-14"
-  },
-  {
     "company": "MEDAIR ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ",
     "cert_code": "2200 C06 24 07 05",
     "issuance": "2024-07-08",
@@ -3023,18 +2819,6 @@
     "cert_code": "22003 C06 25 02 01",
     "issuance": "2025-02-25",
     "expiration": "2026-02-24"
-  },
-  {
-    "company": "ΔΗΜ.ΡΕΚΟΥΤΗΣ ΑΕ-OSTEOCELL",
-    "cert_code": "2203 C06 24 06 05",
-    "issuance": "2024-06-09",
-    "expiration": "2025-06-08"
-  },
-  {
-    "company": "ΜΗΛΕ ΕΛΛΑΣ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ",
-    "cert_code": "2205 C06 24 06 06",
-    "issuance": "2024-06-17",
-    "expiration": "2025-06-16"
   },
   {
     "company": "ΣΥΝΕΤΑΙΡΙΣΜΟΣ ΦΑΡΜΑΚΟΠΟΙΩΝ Ν. ΡΟΔΟΠΗΣ",
@@ -3077,18 +2861,6 @@
     "cert_code": "22186 C06 25 02 01",
     "issuance": "2025-02-17",
     "expiration": "2026-02-16"
-  },
-  {
-    "company": "ΡΙΣΑΛΚΟ A.E.",
-    "cert_code": "2219 C06 24 06 05",
-    "issuance": "2024-06-26",
-    "expiration": "2025-06-25"
-  },
-  {
-    "company": "ANAMEDIS IKE",
-    "cert_code": "2220  C06 24 06 05",
-    "issuance": "2024-06-26",
-    "expiration": "2025-06-25"
   },
   {
     "company": "ΦΑΡΜΑΚΕΥΤΙΚΟ ΚΕΝΤΡΟ Α.Ε.",
@@ -3161,12 +2933,6 @@
     "cert_code": "2245 C06 24 07 05",
     "issuance": "2024-07-20",
     "expiration": "2025-07-19"
-  },
-  {
-    "company": "INTEGRIS PHARMA AE",
-    "cert_code": "2249 C06 24 06 06",
-    "issuance": "2024-06-27",
-    "expiration": "2025-06-26"
   },
   {
     "company": "ΒΙΟΠΡΟΜΗΘΕΥΤΙΚΗ Ε.Π.Ε.",
@@ -3475,12 +3241,6 @@
     "expiration": "2026-01-18"
   },
   {
-    "company": "OANIS ΙΚΕ",
-    "cert_code": "3467 C06 24 06 03",
-    "issuance": "2024-06-15",
-    "expiration": "2025-06-14"
-  },
-  {
     "company": "NOVEL MEDICAL AE - ΝΟΒΕΛ ΜΕΝΤΙΚΑΛ ΑΕ",
     "cert_code": "3524 C06 24 11 05",
     "issuance": "2024-11-24",
@@ -3619,82 +3379,16 @@
     "expiration": "2026-03-23"
   },
   {
-    "company": "ΜΑΡΑΓΓΕΛΗΣ Δ. ΣΥΜΕΩΝ UP ULTRADENT HELLAS",
-    "cert_code": "5200 C06 24 06 04",
-    "issuance": "2024-06-02",
-    "expiration": "2025-06-01"
-  },
-  {
-    "company": "ΜΟΝΟΠΡΟΣΩΠΗ ΕΤΑΙΡΕΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ ΣΥΜΕΩΝ ΜΑΡΑΓΓΕΛΗΣ - G&C DENTAL TECHNOLOGIES",
-    "cert_code": "5201 C06 24 06 04",
-    "issuance": "2024-06-02",
-    "expiration": "2025-06-01"
-  },
-  {
-    "company": "ΚΑΡΑΛΗΣ ΔΗΜΗΤΡΙΟΣ & ΣΙΑ ΕΕ",
-    "cert_code": "5339 C06 24 06 04",
-    "issuance": "2024-06-10",
-    "expiration": "2025-06-09"
-  },
-  {
     "company": "ΜΠΟΥΡΟΠΟΥΛΟΣ ΑΝΔ. ΝΙΚΟΛΑΟΣ",
     "cert_code": "5585 C06 24 08 04",
     "issuance": "2024-08-18",
     "expiration": "2025-08-17"
   },
   {
-    "company": "H.B. MEDICAL ΕΜΠΟΡΙΟ ΙΑΤΡΙΚΩΝ ΠΡΟΪΟΝΤΩΝ ΜΟΝ. ΕΠΕ",
-    "cert_code": "5600 C06 24 07 04",
-    "issuance": "2024-07-01",
-    "expiration": "2025-06-30"
-  },
-  {
-    "company": "ACTION MED MON. ΕΠΕ",
-    "cert_code": "5649 C06 24 06 04",
-    "issuance": "2024-06-03",
-    "expiration": "2025-06-02"
-  },
-  {
-    "company": "LAVRUSHENKOVA ELENA “NEOMED''",
-    "cert_code": "5711 C06 24 06 04",
-    "issuance": "2024-06-24",
-    "expiration": "2025-06-23"
-  },
-  {
-    "company": "ΠΑΡΑΣΚΕΥΟΠΟΥΛΟΣ ΝΙΚ. ΑΝΔΡΕΑΣ",
-    "cert_code": "5715 C06 24 06 04",
-    "issuance": "2024-06-23",
-    "expiration": "2025-06-22"
-  },
-  {
-    "company": "PECTUS MEDICAL IKE",
-    "cert_code": "5766 C06 24 06 04",
-    "issuance": "2024-06-24",
-    "expiration": "2025-06-23"
-  },
-  {
-    "company": "SOMEGO MEDICAL DEVICES IKE",
-    "cert_code": "5768 C06 24 06 04",
-    "issuance": "2024-06-15",
-    "expiration": "2025-06-14"
-  },
-  {
-    "company": "ΣΟΥΛΕΙΜΑΝ ΟΜΕΡ ΓΙΑΣΙΝ ΕΜΠΟΡΙΟ ΙΑΤΡΙΚΩΝ ΑΝΑΛΩΣΙΜΩΝ",
-    "cert_code": "5804 C06 24 06 04",
-    "issuance": "2024-06-08",
-    "expiration": "2025-06-07"
-  },
-  {
     "company": "LS MED ΕΠΕ",
     "cert_code": "5805 C06 24 07 04",
     "issuance": "2024-07-22",
     "expiration": "2025-07-21"
-  },
-  {
-    "company": "ΑΝΑΠΝΟΗ ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ",
-    "cert_code": "5832 C06 24 06 05",
-    "issuance": "2024-06-07",
-    "expiration": "2025-06-06"
   },
   {
     "company": "SERINTH ΕΠΕ",
@@ -4033,72 +3727,6 @@
     "expiration": "2026-03-07"
   },
   {
-    "company": "ACTIVO Ο.Ε",
-    "cert_code": "9078 C06 24 06 03",
-    "issuance": "2024-06-07",
-    "expiration": "2025-06-06"
-  },
-  {
-    "company": "CARE ACCESS IKE",
-    "cert_code": "9083 C06 24 06 03",
-    "issuance": "2024-06-06",
-    "expiration": "2025-06-05"
-  },
-  {
-    "company": "OSSUR GREECE Ι.Κ.Ε.",
-    "cert_code": "9346 C06 24 06 03",
-    "issuance": "2024-06-13",
-    "expiration": "2025-06-12"
-  },
-  {
-    "company": "ΓΙΟΥΚΑ Α.Ε",
-    "cert_code": "9374 C06 24 06 03",
-    "issuance": "2024-06-06",
-    "expiration": "2025-06-05"
-  },
-  {
-    "company": "ΑΛΕΞΑΝΔΡΟΠΟΥΛΟΥ ΕΥΣΤΡΑΤΙΑ - PHARMAMED",
-    "cert_code": "9485 C06 24 06 03",
-    "issuance": "2024-06-09",
-    "expiration": "2025-06-08"
-  },
-  {
-    "company": "NML MEDICAL Ε.Ε.",
-    "cert_code": "9496 C06 24 06 03",
-    "issuance": "2024-06-28",
-    "expiration": "2025-06-27"
-  },
-  {
-    "company": "ΑΓΝΟΔΙΚΗ Ε.Ε.",
-    "cert_code": "9497 C06 24 06 03",
-    "issuance": "2024-06-20",
-    "expiration": "2025-06-19"
-  },
-  {
-    "company": "ΝΤΑΝΗΣ ΕΥΑΓΓΕΛΟΣ ΑΛΕΞΑΝΔΡΟΣ",
-    "cert_code": "9538 C06 24 06 03",
-    "issuance": "2024-06-20",
-    "expiration": "2025-06-19"
-  },
-  {
-    "company": "ΧΕΛΙΔΩΝΗ ΑΝΑΣΤΑΣΙΑ & ΣΙΑ Ε.Ε. (HELIDONI MEDICAL)",
-    "cert_code": "9554 C06 24 06 03",
-    "issuance": "2024-06-13",
-    "expiration": "2025-06-12"
-  },
-  {
-    "company": "ΑΝΤΩΝΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ",
-    "cert_code": "9559 C06 24 06 03",
-    "issuance": "2024-06-22",
-    "expiration": "2025-06-21"
-  },
-  {
-    "company": "MEDINEX ΜΕΠΕ",
-    "cert_code": "9563 C06 24 06 03",
-    "issuance": "2024-06-23",
-    "expiration": "2025-06-22"
-  },
-  {
     "company": "OBMEDICS ΣΥΚΑΜΙΩΤΗΣ Ο.Ε.",
     "cert_code": "9591 C06 24 07 03",
     "issuance": "2024-07-22",
@@ -4109,12 +3737,6 @@
     "cert_code": "9592 C06 24 07 03",
     "issuance": "2024-07-29",
     "expiration": "2025-07-28"
-  },
-  {
-    "company": "OMMAVIT ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.",
-    "cert_code": "9791 C06 24 06 03",
-    "issuance": "2024-06-29",
-    "expiration": "2025-06-28"
   },
   {
     "company": "ΜΠΟΥΚΟΥΒΑΛΑΣ MEDICAL Ε.Ε",
@@ -4333,6 +3955,12 @@
     "expiration": "2028-02-22"
   },
   {
+    "company": "ΛΑΩΝΗ Δ. ΞΑΝΘΗ MEDICAL PRODUCTS HELLAS",
+    "cert_code": "12086 C10 25 06 03",
+    "issuance": "2025-06-14",
+    "expiration": "2028-06-13"
+  },
+  {
     "company": "DDSA AESTHETIC INNOVATIONS E.E",
     "cert_code": "12093 C10 25 03 03 s",
     "issuance": "2025-04-11",
@@ -4511,6 +4139,18 @@
     "cert_code": "13426 C10 24 07 02 s",
     "issuance": "2025-04-08",
     "expiration": "2027-07-23"
+  },
+  {
+    "company": "ΓΕΩΡΓΙΟΣ ΛΟΗΣ ΣΙΑ ΕΕ",
+    "cert_code": "13446 C10 25 06 03",
+    "issuance": "2025-06-21",
+    "expiration": "2028-06-20"
+  },
+  {
+    "company": "ΣΤΙΛΒΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΕΜΠΟΡΙΑΣ ΦΑΡΜΑΚΩΝ ΚΑΙ ΚΑΛΛΥΝΤΙΚΩΝ",
+    "cert_code": "13461 C10 25 06 03",
+    "issuance": "2025-06-19",
+    "expiration": "2028-06-18"
   },
   {
     "company": "ΑΡΤΙΟΝ ΙΑΤΡΟΤΕΧΝΟΛΟΓΙΚΑ ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ",
@@ -5233,6 +4873,12 @@
     "expiration": "2027-12-08"
   },
   {
+    "company": "ΡΧ ΙΑΤΡΙΚΗ ΥΠΟΣΤΗΡΙΞΗ Μ. Ε.Π.Ε.",
+    "cert_code": "1736 C10 25 06 06",
+    "issuance": "2025-06-17",
+    "expiration": "2028-06-16"
+  },
+  {
     "company": "ΜΠΑΣΙΑΚΟΥ ΘΕΟΔΩΡΑ 'DERMASCIENCE'",
     "cert_code": "17376 C10 24 04 01 s",
     "issuance": "2025-04-18",
@@ -5503,6 +5149,12 @@
     "expiration": "2027-07-02"
   },
   {
+    "company": "AGGIOMED SUPPLIES A.E",
+    "cert_code": "1836 C10 25 06 07",
+    "issuance": "2025-06-16",
+    "expiration": "2028-06-15"
+  },
+  {
     "company": "HOSPITECNICA ΝΟΣΟΚΟΜΕΙΑΚΟΣ ΕΞΟΠΛΙΣΜΟΣ - ΕΓΚΑΤΑΣΤΑΣΕΙΣ - ΣΥΝΤΗΡΗΣΕΙΣ Ε.Π.Ε.",
     "cert_code": "1842 C10 25 02 06 s",
     "issuance": "2025-03-31",
@@ -5516,9 +5168,15 @@
   },
   {
     "company": "ΝΙΚΟΣ ΜΙΓΚΟΣ & ΣΙΑ Ε.Ε. “BLUEMED”",
-    "cert_code": "1844 C10 24 12 06 s",
-    "issuance": "2025-03-28",
+    "cert_code": "1844 C10 25 06 07",
+    "issuance": "2025-06-19",
     "expiration": "2027-12-22"
+  },
+  {
+    "company": "ΦΙΛΟΚΩΣΤΑ ΕΥΑΝΘΙΑ",
+    "cert_code": "18547 C10 25 06 02",
+    "issuance": "2025-06-24",
+    "expiration": "2028-06-23"
   },
   {
     "company": "ΒΙΟΜΗΧΑΝΙΑ ΧΗΜΙΚΩΝ ΠΡΟΪΟΝΤΩΝ ΑΛΠΑΚΟ ΑΕ",
@@ -5537,6 +5195,12 @@
     "cert_code": "18645 C10 24 07 01 s",
     "issuance": "2025-04-11",
     "expiration": "2027-07-06"
+  },
+  {
+    "company": "INTRAMED ΕΠΕ",
+    "cert_code": "18655 C10 25 06 02",
+    "issuance": "2025-06-24",
+    "expiration": "2028-06-23"
   },
   {
     "company": "ΚΟΥΚΟΥΡΑΒΑ Β. - ΑΝΑΓΝΩΣΤΟΠΟΥΛΟΣ ΑΘ. Ο.Ε.",
@@ -5657,6 +5321,12 @@
     "cert_code": "18929 C10 24 07 01 s",
     "issuance": "2025-04-04",
     "expiration": "2027-07-22"
+  },
+  {
+    "company": "SYSTEMED ATHENS Α.Ε.",
+    "cert_code": "1893 C10 25 06 07",
+    "issuance": "2025-06-16",
+    "expiration": "2028-06-15"
   },
   {
     "company": "IMPLANTS INDUSTRIE HELLAS Α.Ε.",
@@ -5821,6 +5491,12 @@
     "expiration": "2028-01-28"
   },
   {
+    "company": "ΠΑΠΑΝΙΚΟΛΑΟΥ ΧΡΗΣΤΟΣ & ΣΙΑ ΕΤΕΡΟΡΡΥΘΜΗ ΕΤΑΙΡΕΙΑ",
+    "cert_code": "1943 C10 25 06 07",
+    "issuance": "2025-06-03",
+    "expiration": "2028-06-02"
+  },
+  {
     "company": "ΠΑΣΣΑΛΗΣ ΗΛΙΑΣ 'ΑΚΟΥΣΤΙΚΑ ΒΑΡΗΚΟΪΑΣ'",
     "cert_code": "19444 C10 24 09 01  s",
     "issuance": "2025-03-28",
@@ -5849,6 +5525,12 @@
     "cert_code": "1950 C10 24 11 06 s",
     "issuance": "2025-04-07",
     "expiration": "2027-11-17"
+  },
+  {
+    "company": "ΔΗΜΗΤΡΙΟΣ ΔΟΔΟΥΣΗΣ ΚΑΙ ΣΙΑ Ε Ε",
+    "cert_code": "1951 C10 25 06 06",
+    "issuance": "2025-06-02",
+    "expiration": "2028-06-01"
   },
   {
     "company": "MEDIMEL ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ 'MEDIMEL'",
@@ -6175,6 +5857,12 @@
     "expiration": "2028-05-04"
   },
   {
+    "company": "Βαλαώρας Αθ. - Μουρσελάς Νικ. Ο.Ε. ‘ACTIVIA MEDICAL’",
+    "cert_code": "2025 C10 25 06 06",
+    "issuance": "2025-06-10",
+    "expiration": "2028-06-09"
+  },
+  {
     "company": "TRUST RAMMA A.E.",
     "cert_code": "2026 C10 24 04 05 s",
     "issuance": "2025-04-22",
@@ -6197,6 +5885,12 @@
     "cert_code": "2030 C10 24 05 05 s",
     "issuance": "2025-04-01",
     "expiration": "2027-05-29"
+  },
+  {
+    "company": "ΤΣΟΜΠΑΝΙΔΗΣ ΙΩΑΝ. ΑΘΑΝΑΣΙΟΣ",
+    "cert_code": "2031 C10 25 06 06",
+    "issuance": "2025-06-22",
+    "expiration": "2028-06-21"
   },
   {
     "company": "GP PRODUCTS A.E.",
@@ -6257,6 +5951,12 @@
     "cert_code": "2047 C06 24 03 05 s",
     "issuance": "2025-03-20",
     "expiration": "2027-03-19"
+  },
+  {
+    "company": "ΑΝΤΩΝΙΟΣ ΣΑΛΜΑΣ ‘ΠΝΕΥΣΙΣ’",
+    "cert_code": "2048 C10 25 06 08",
+    "issuance": "2025-06-06",
+    "expiration": "2028-06-05"
   },
   {
     "company": "ΣΠΥΡ. ΓΑΖΗΣ ΚΑΙ ΣΙΑ Ο.Ε.",
@@ -6523,6 +6223,12 @@
     "expiration": "2027-05-01"
   },
   {
+    "company": "HEALTH AIR  Ε.E.",
+    "cert_code": "2117 C10 25 06 06",
+    "issuance": "2025-06-22",
+    "expiration": "2028-06-21"
+  },
+  {
     "company": "ΠΙΤΣΑΡΗ Γ. ΠΑΡΑΣΚΕΥΗ",
     "cert_code": "2118 C10 24 04 05 s",
     "issuance": "2025-04-15",
@@ -6581,6 +6287,12 @@
     "cert_code": "2133 C10 24 05 05 s",
     "issuance": "2025-03-28",
     "expiration": "2027-06-21"
+  },
+  {
+    "company": "ΦΑΡΜΑΚΑΠΟΘΗΚΗ Μ. Δ. ΠΑΝΟΥ Α.Ε - MP PHARMA A.E.",
+    "cert_code": "2135 C10 25 06 06",
+    "issuance": "2025-06-27",
+    "expiration": "2028-06-26"
   },
   {
     "company": "ΓΕΩΡΓΙΟΣ ΔΟΞΑΣΤΑΚΗΣ Ε.Π.Ε",
@@ -6643,6 +6355,12 @@
     "expiration": "2027-06-09"
   },
   {
+    "company": "ΧΑΤΖΗΛΑΡΗΣ - ΑΓΓΕΛΟΥ ΕΥΣΤΡΑΤΙΟΣ Δ.Τ. \"DR SCRUB",
+    "cert_code": "21573 C10 25 06 01",
+    "issuance": "2025-06-27",
+    "expiration": "2028-06-26"
+  },
+  {
     "company": "ΟΡΘΟΠΕΔΙΚΑ ΤΣΑΓΙΑΝΝΙΔΗΣ Ι.Κ.Ε",
     "cert_code": "2158 C10 25 05 06",
     "issuance": "2025-05-15",
@@ -6659,6 +6377,12 @@
     "cert_code": "2160 C10 24 08 05 s",
     "issuance": "2025-03-28",
     "expiration": "2027-08-03"
+  },
+  {
+    "company": "MEDICALNET ΦΑΡΜΑΚΑΠΟΘΗΚΗ ΜΟΝ ΕΠΕ",
+    "cert_code": "2162 C10 25 06 06",
+    "issuance": "2025-06-11",
+    "expiration": "2028-06-10"
   },
   {
     "company": "Ν. ΜΠΙΡΗΣ & ΣΙΑ Ο.Ε. 'TECHNOPHARM HELLAS'",
@@ -6727,6 +6451,12 @@
     "expiration": "2028-02-16"
   },
   {
+    "company": "ΚΑΡΑΓΙΑΝΝΗ Θ. ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.",
+    "cert_code": "2185 C10 25 06 06",
+    "issuance": "2025-06-06",
+    "expiration": "2028-06-05"
+  },
+  {
     "company": "WINGS ICT Solutions Τεχνολογίες Πληροφορικής & Επικοινωνιών Ανώνυμη Εταιρεία",
     "cert_code": "21872 C10 25 02 01 s",
     "issuance": "2025-04-11",
@@ -6763,10 +6493,22 @@
     "expiration": "2028-02-08"
   },
   {
+    "company": "ΚΙΛΙΚΛΗ ΕΥΑΓΓΕΛΙΑ",
+    "cert_code": "2198 C10 25 06 06",
+    "issuance": "2025-06-15",
+    "expiration": "2028-06-14"
+  },
+  {
     "company": "ΔΗΜ.ΡΕΚΟΥΤΗΣ ΑΕ-OSTEOCELL",
     "cert_code": "2203 C10 24 06 05 s",
     "issuance": "2025-04-22",
     "expiration": "2027-06-08"
+  },
+  {
+    "company": "ΜΗΛΕ ΕΛΛΑΣ ΜΟΝΟΠΡΟΣΩΠΗ ΕΠΕ",
+    "cert_code": "2205 C10 25 06 06",
+    "issuance": "2025-06-17",
+    "expiration": "2028-06-16"
   },
   {
     "company": "ΜΑΝΙΚΑΣ ΑΧΙΛΛΕΑΣ Μ.Ι.Κ.Ε.",
@@ -6865,6 +6607,12 @@
     "expiration": "2028-04-14"
   },
   {
+    "company": "INTEGRIS PHARMA AE",
+    "cert_code": "2249 C10 25 06 06",
+    "issuance": "2025-06-27",
+    "expiration": "2028-06-26"
+  },
+  {
     "company": "EQUIBILITY Ε.Ε.",
     "cert_code": "22498 C10 25 04 01",
     "issuance": "2025-04-22",
@@ -6881,6 +6629,18 @@
     "cert_code": "2252 C10 24 07 05 s",
     "issuance": "2025-04-04",
     "expiration": "2027-07-05"
+  },
+  {
+    "company": "GROUP MEDICAL PURCHASING ΜΑΕ",
+    "cert_code": "22558 C10 25 06 01",
+    "issuance": "2025-06-24",
+    "expiration": "2028-06-20"
+  },
+  {
+    "company": "ΜΑΝΙΚΑΣ ΑΧΙΛΛΕΑΣ Μ.Ι.Κ.Ε.",
+    "cert_code": "22572 C10 25 06 01",
+    "issuance": "2025-06-02",
+    "expiration": "2028-06-01"
   },
   {
     "company": "Ι. ΙΩΑΝΝΙΔΗΣ ΜΟΝ. Ι.Κ.Ε",
@@ -6944,8 +6704,8 @@
   },
   {
     "company": "ΚΑΛΑΜΕΝΙΟΣ ΑΛΚΙΒΙΑΔΗΣ - Ear & Life",
-    "cert_code": "22787 C10 25 05 01",
-    "issuance": "2025-05-10",
+    "cert_code": "22787 C10 25 06 02",
+    "issuance": "2025-06-05",
     "expiration": "2028-05-09"
   },
   {
@@ -6985,6 +6745,18 @@
     "expiration": "2028-05-20"
   },
   {
+    "company": "ΑΡΗΤΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΦΑΡΜΑΚΕΥΤΙΚΩΝ ΚΑΙ ΙΑΤΡΙΚΩΝ ΠΡΟΙΟΝΤΩΝ",
+    "cert_code": "22843 C10 25 06 01",
+    "issuance": "2025-06-27",
+    "expiration": "2028-06-26"
+  },
+  {
+    "company": "ΕΥΡΩΠΑΪΚΟ ΙΝΣΤΙΤΟΥΤΟ ΓΕΝΕΤΙΚΗΣ ΚΑΙ ΤΑΥΤΟΠΟΙΗΣΗΣ DNA ΙΔΙΩΤΙΚΟ ΔΙΑΓΝΩΣΤΙΚΟ ΕΡΓΑΣΤΗΡΙΟ ΜΟΝΟΠΡΟΣΩΠΗ ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+    "cert_code": "22879 C10 25 06 01",
+    "issuance": "2025-06-03",
+    "expiration": "2028-06-02"
+  },
+  {
     "company": "MEDINOR EE",
     "cert_code": "22911 C10 25 04 01",
     "issuance": "2025-04-25",
@@ -6995,6 +6767,12 @@
     "cert_code": "22927 C10 25 04 01",
     "issuance": "2025-04-22",
     "expiration": "2028-04-21"
+  },
+  {
+    "company": "ΤΖΙΒΕΛΕΚΑΣ ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΟΝ/ΠΗ ΕΠΕ",
+    "cert_code": "22940 C10 25 06 01",
+    "issuance": "2025-06-17",
+    "expiration": "2028-06-16"
   },
   {
     "company": "PATIENT PLUS ΠΡΟΓΡΑΜΜΑΤΑ ΕΚΠΑΙΔΕΥΣΗΣ ΣΥΜΜΟΡΦΩΣΗΣ ΑΣΘΕΝΩΝ ΜΟΝΟΠΡΟΣΩΠΗ Ε.Π.Ε.",
@@ -7033,6 +6811,12 @@
     "expiration": "2028-04-21"
   },
   {
+    "company": "ACTION MED MON. ΕΠΕ",
+    "cert_code": "23127 C10 25 06 01",
+    "issuance": "2025-06-07",
+    "expiration": "2028-06-06"
+  },
+  {
     "company": "ΓΚΑΪΝΤΑΤΖΗ ΚΥΡΙΑΚΗ ΞΑΝΘΟΣ",
     "cert_code": "23149 C10 25 05 01",
     "issuance": "2025-05-01",
@@ -7051,6 +6835,12 @@
     "expiration": "2028-05-09"
   },
   {
+    "company": "Α. ΚΟΡΟΜΗΛΑΣ & ΣΙΑ Ο.Ε.",
+    "cert_code": "23195 C10 25 06 01",
+    "issuance": "2025-06-04",
+    "expiration": "2028-06-03"
+  },
+  {
     "company": "ICON DYNAMICS ΙΑΤΡΙΚΑ ΜΗΧΑΝΗΜΑΤΑ IKE",
     "cert_code": "23210 C10 25 05 01",
     "issuance": "2025-05-19",
@@ -7061,6 +6851,18 @@
     "cert_code": "23212 C10 25 05 01",
     "issuance": "2025-05-10",
     "expiration": "2028-05-09"
+  },
+  {
+    "company": "ΦΟΥΤΖΙ ΦΙΛΜ ΕΛΛΑΣ Α.Ε",
+    "cert_code": "23213 C10 25 06 01",
+    "issuance": "2025-06-17",
+    "expiration": "2028-06-16"
+  },
+  {
+    "company": "ΜΙΚΡΟΑΝΑΛΥΣΗ ΙΑΤΡΙΚΑ ΕΙΔΗ Α.Ε.",
+    "cert_code": "23218 C10 25 06 01",
+    "issuance": "2025-06-04",
+    "expiration": "2028-06-03"
   },
   {
     "company": "CONNEKTA HELLAS ΜΟΝΟΠΡΟΣΩΠΗ A.E",
@@ -7105,6 +6907,12 @@
     "expiration": "2028-05-20"
   },
   {
+    "company": "MEDIC PLAN HEALTH PROJECT ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ",
+    "cert_code": "23461 C10 25 06 01c",
+    "issuance": "2025-06-13",
+    "expiration": "2028-06-12"
+  },
+  {
     "company": "OPTIMUM ORTHOREDICS A.E.",
     "cert_code": "23468 C10 25 05 01",
     "issuance": "2025-05-27",
@@ -7121,6 +6929,24 @@
     "cert_code": "23472 C10 25 05 01",
     "issuance": "2025-05-27",
     "expiration": "2028-05-26"
+  },
+  {
+    "company": "ΠΡΟΒΙΝΤΕΝΤ ΙΑΤΡΟΤΕΧΝΟΛΟΓΙΚΑ Ι Κ Ε",
+    "cert_code": "23521 C10 25 06 01",
+    "issuance": "2025-06-02",
+    "expiration": "2028-06-01"
+  },
+  {
+    "company": "Αλαφούζος Η. Μ. ΚΑΙ ΣΙΑ Ε.Ε.",
+    "cert_code": "23532 C10 25 06 01",
+    "issuance": "2025-06-17",
+    "expiration": "2028-06-16"
+  },
+  {
+    "company": "SURGILIFE ΝΟΣΟΚΟΜΕΙΑΚΑ ΧΕΙΡΟΥΡΓΙΚΑ ΥΛΙΚΑ ΕΠΕ",
+    "cert_code": "23533 C10 25 06 01",
+    "issuance": "2025-06-02",
+    "expiration": "2028-06-01"
   },
   {
     "company": "MEDIPROX E.E.",
@@ -7147,6 +6973,12 @@
     "expiration": "2028-05-25"
   },
   {
+    "company": "MEDIPRIME ΙΑΤΡΟΦΑΡΜΑΚΕΥΤΙΚΩΝ ΕΙΔΩΝ Α.Ε.Ε",
+    "cert_code": "23546 C10 25 06 01",
+    "issuance": "2025-06-17",
+    "expiration": "2028-06-16"
+  },
+  {
     "company": "ΑΝΑΓΝΩΣΤΟΠΟΥΛΟΣ ΚΩΝ/ΝΟΣ & ΣΙΑ Ο.Ε.",
     "cert_code": "2356 C10 24 08 05 s",
     "issuance": "2025-04-11",
@@ -7165,10 +6997,88 @@
     "expiration": "2028-05-20"
   },
   {
+    "company": "ΛΙΝΑΡΔΑΚΗΣ Χ. ΙΚΕ",
+    "cert_code": "23617 C10 25 06 01",
+    "issuance": "2025-06-17",
+    "expiration": "2028-06-16"
+  },
+  {
     "company": "Κ ΛΙΛΛΗΣ ΚΑΙ Α ΚΑΡΑΛΗΣ ΟΕ",
     "cert_code": "23629 C10 25 05 01",
     "issuance": "2025-05-28",
     "expiration": "2028-05-27"
+  },
+  {
+    "company": "MAILSHIP ΜΟΝΟΠΡΟΣΩΠΗ ΙΚΕ",
+    "cert_code": "23729 C10 25 06 01",
+    "issuance": "2025-06-10",
+    "expiration": "2028-06-09"
+  },
+  {
+    "company": "ΒΙΟΚΟΝ ΙΑΤΡΙΚΑ ΚΑΙ ΒΙΟΤΕΧΝΟΛΟΓΙΚΑ ΠΡΟΙΟΝΤΑ ΕΤΑΙΡΕΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ",
+    "cert_code": "23733 C10 25 06 01",
+    "issuance": "2025-06-20",
+    "expiration": "2028-06-19"
+  },
+  {
+    "company": "VITAL CARE ΜΟΝ. ΙΚΕ",
+    "cert_code": "23786 C10 25 06 01",
+    "issuance": "2025-06-02",
+    "expiration": "2028-06-01"
+  },
+  {
+    "company": "INTELACOUSTICS I.K.E.",
+    "cert_code": "23831 C10 25 06 01",
+    "issuance": "2025-06-10",
+    "expiration": "2028-06-09"
+  },
+  {
+    "company": "ΚΟΙΝΩΝΙΚΗ ΣΥΝΕΤΑΙΡΙΣΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΣΥΛΛΟΓΙΚΗΣ ΚΑΙ ΚΟΙΝΩΝΙΚΗΣ ΩΦΕΛΕΙΑΣ ΑΝΕΜΟΣ",
+    "cert_code": "23852 C10 25 06 01",
+    "issuance": "2025-06-03",
+    "expiration": "2028-06-02"
+  },
+  {
+    "company": "MOTO TREND AE",
+    "cert_code": "23862 C10 25 06 01",
+    "issuance": "2025-06-17",
+    "expiration": "2028-06-16"
+  },
+  {
+    "company": "ΠΑΠΑΓΕΩΡΓΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ",
+    "cert_code": "23896 C10 25 06 01",
+    "issuance": "2025-06-17",
+    "expiration": "2028-06-16"
+  },
+  {
+    "company": "ΚΟΥΛΟΥΚΙΔΗΣ ΒΑΣΙΛΕΙΟΣ",
+    "cert_code": "23931 C10 25 06 01",
+    "issuance": "2025-06-20",
+    "expiration": "2028-06-19"
+  },
+  {
+    "company": "UNICARE HEARING ΧΟΝΔΡΙΚΟ ΕΜΠΟΡΙΟ ΑΚ ΒΑΡΗΚΟΙΑΣ ΜΕΠΕ",
+    "cert_code": "24018 C10 25 06 01",
+    "issuance": "2025-06-17",
+    "expiration": "2028-06-16"
+  },
+  {
+    "company": "ΤΖΑΝΙΔΑΚΗΣ ΕΜΜΑΝΟΥΗΛ INTERMEDICA",
+    "cert_code": "24040 C10 25 06 01",
+    "issuance": "2025-06-24",
+    "expiration": "2028-06-23"
+  },
+  {
+    "company": "HRS HEALTH RECOVERY SERVICES Ε Ε",
+    "cert_code": "24064 C10 25 06 01",
+    "issuance": "2025-06-24",
+    "expiration": "2028-06-20"
+  },
+  {
+    "company": "ΓΙΑΝΝΕΙΟΥ ΧΡ ΚΟΡΔΟΝΟΥΡΗ ΕΛ ΟΕ",
+    "cert_code": "24219 C10 25 06 01",
+    "issuance": "2025-06-24",
+    "expiration": "2028-06-20"
   },
   {
     "company": "ΜΠΑΡΩΝΟΣ ΑΘΑΝΑΣΙΟΣ FILIMEDICAL",
@@ -7495,6 +7405,18 @@
     "expiration": "2027-04-20"
   },
   {
+    "company": "ΜΑΡΑΓΓΕΛΗΣ Δ. ΣΥΜΕΩΝ UP ULTRADENT HELLAS",
+    "cert_code": "5200 C10 25 06 05",
+    "issuance": "2025-06-02",
+    "expiration": "2028-06-01"
+  },
+  {
+    "company": "ΜΟΝΟΠΡΟΣΩΠΗ ΕΤΑΙΡΕΙΑ ΠΕΡΙΟΡΙΣΜΕΝΗΣ ΕΥΘΥΝΗΣ ΣΥΜΕΩΝ ΜΑΡΑΓΓΕΛΗΣ - G&C DENTAL TECHNOLOGIES",
+    "cert_code": "5201 C10 25 06 05",
+    "issuance": "2025-06-02",
+    "expiration": "2028-06-01"
+  },
+  {
     "company": "Μ. ΠΟΥΝΤΟΥ ΚΑΙ ΣΙΑ Ο.Ε.",
     "cert_code": "5216 C10 24 04 04 s",
     "issuance": "2025-03-28",
@@ -7525,6 +7447,12 @@
     "expiration": "2027-04-14"
   },
   {
+    "company": "ΚΑΡΑΛΗΣ ΔΗΜΗΤΡΙΟΣ & ΣΙΑ ΕΕ",
+    "cert_code": "5339 C10 25 06 05",
+    "issuance": "2025-06-10",
+    "expiration": "2028-06-09"
+  },
+  {
     "company": "BRIGHT EARS I.K.E",
     "cert_code": "5424 C10 25 05 05",
     "issuance": "2025-05-26",
@@ -7543,10 +7471,34 @@
     "expiration": "2027-06-30"
   },
   {
+    "company": "ACCESSMED Ι.Κ.Ε. 'ΚΑΡΑΓΙΑΝΝΗ ΙΑΤΡΙΚΑ'",
+    "cert_code": "5649 C10 25 06 05",
+    "issuance": "2025-06-03",
+    "expiration": "2028-06-02"
+  },
+  {
+    "company": "LAVRUSHENKOVA ELENA “NEOMED''",
+    "cert_code": "5711 C10 25 06 05",
+    "issuance": "2025-06-24",
+    "expiration": "2028-06-23"
+  },
+  {
+    "company": "ΠΑΡΑΣΚΕΥΟΠΟΥΛΟΣ ΝΙΚ. ΑΝΔΡΕΑΣ",
+    "cert_code": "5715 C10 25 06 05",
+    "issuance": "2025-06-23",
+    "expiration": "2028-06-22"
+  },
+  {
     "company": "ΠΑΤΡΙΑΝΑΚΟΣ ΓΕΩΡΓΙΟΣ ΝΙΚΟΛΑΟΣ",
     "cert_code": "5716 C10 25 05 05",
     "issuance": "2025-05-23",
     "expiration": "2028-05-22"
+  },
+  {
+    "company": "SOMEGO MEDICAL DEVICES IKE",
+    "cert_code": "5768 C10 25 06 05",
+    "issuance": "2025-06-15",
+    "expiration": "2028-06-14"
   },
   {
     "company": "ΣΟΥΛΕΙΜΑΝ ΟΜΕΡ ΓΙΑΣΙΝ ΕΜΠΟΡΙΟ ΙΑΤΡΙΚΩΝ ΑΝΑΛΩΣΙΜΩΝ",
@@ -7879,6 +7831,12 @@
     "expiration": "2028-05-15"
   },
   {
+    "company": "OSSUR GREECE Ι.Κ.Ε.",
+    "cert_code": "9346 C10 25 06 04",
+    "issuance": "2025-06-13",
+    "expiration": "2028-06-12"
+  },
+  {
     "company": "ΓΙΟΥΚΑ Α.Ε",
     "cert_code": "9374 C10 24 06 03 s",
     "issuance": "2025-04-11",
@@ -7892,9 +7850,9 @@
   },
   {
     "company": "NML MEDICAL Ε.Ε.",
-    "cert_code": "9496 C10 24 06 03 s",
-    "issuance": "2025-04-08",
-    "expiration": "2027-06-27"
+    "cert_code": "9496 C10 25 06 04",
+    "issuance": "2025-06-28",
+    "expiration": "2028-06-27"
   },
   {
     "company": "ΑΓΝΟΔΙΚΗ Ε.Ε.",
@@ -7903,16 +7861,40 @@
     "expiration": "2027-06-19"
   },
   {
+    "company": "ΝΤΑΝΗΣ ΕΥΑΓΓΕΛΟΣ ΑΛΕΞΑΝΔΡΟΣ",
+    "cert_code": "9538 C10 25 06 04",
+    "issuance": "2025-06-20",
+    "expiration": "2028-06-19"
+  },
+  {
+    "company": "ΧΕΛΙΔΩΝΗ ΑΝΑΣΤΑΣΙΑ & ΣΙΑ Ε.Ε. (HELIDONI MEDICAL)",
+    "cert_code": "9554 C10 25 06 04",
+    "issuance": "2025-06-13",
+    "expiration": "2028-06-12"
+  },
+  {
     "company": "ΑΝΤΩΝΙΟΥ ΚΩΝΣΤΑΝΤΙΝΟΣ",
     "cert_code": "9559 C10 24 06 03 s",
     "issuance": "2025-04-11",
     "expiration": "2027-06-21"
   },
   {
+    "company": "MEDINEX ΜΕΠΕ",
+    "cert_code": "9563 C10 25 06 04",
+    "issuance": "2025-06-23",
+    "expiration": "2028-06-22"
+  },
+  {
     "company": "ΑΛΑΦΟΥΖΟΣ ΗΛΙΑΣ",
     "cert_code": "9592 C10 24 07 03 s",
     "issuance": "2025-03-28",
     "expiration": "2027-07-28"
+  },
+  {
+    "company": "OMMAVIT ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε.",
+    "cert_code": "9791 C10 25 06 04",
+    "issuance": "2025-06-29",
+    "expiration": "2028-06-28"
   },
   {
     "company": "ΜΠΟΥΚΟΥΒΑΛΑΣ MEDICAL Ε.Ε",
