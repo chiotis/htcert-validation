@@ -140,8 +140,8 @@
   },
   {
     "company": "GNOMON INFORMATICS S.A",
-    "cert_code": "T13296C02240502",
-    "issuance": "2024-05-24",
+    "cert_code": "C02 T13296 2405 Rev. 01",
+    "issuance": "2025-07-07",
     "expiration": "2027-05-23"
   },
   {
@@ -170,9 +170,9 @@
   },
   {
     "company": "CibusMed PC",
-    "cert_code": "8786C02220701",
-    "issuance": "2022-07-09",
-    "expiration": "2025-07-08"
+    "cert_code": "C02 GR020852 2507 Rev. 00",
+    "issuance": "2025-07-09",
+    "expiration": "2028-07-08"
   },
   {
     "company": "Orthotin LLC",
@@ -271,12 +271,6 @@
     "expiration": "2027-11-07"
   },
   {
-    "company": "Nephroclinic S.A.",
-    "cert_code": "C02 T15609 2411 Rev.00",
-    "issuance": "2024-11-08",
-    "expiration": "2027-11-07"
-  },
-  {
     "company": "DELTEX",
     "cert_code": "C02 FR002872 2412 Rev.00",
     "issuance": "2024-12-09",
@@ -323,6 +317,30 @@
     "cert_code": "C02 US045054 2503 Rev.00",
     "issuance": "2025-04-01",
     "expiration": "2028-03-31"
+  },
+  {
+    "company": "EMD Endoszkóp Műszer Gyártó és Kereskedelmi Kft.",
+    "cert_code": "C02 HU003387 2505 Rev.00",
+    "issuance": "2025-05-21",
+    "expiration": "2028-05-20"
+  },
+  {
+    "company": "eXagotec GmbH",
+    "cert_code": "C02 QMS21477 2506 Rev. 00",
+    "issuance": "2025-06-20",
+    "expiration": "2028-06-19"
+  },
+  {
+    "company": "V.D. MEDICAL LTD",
+    "cert_code": "C02 QMS34349 2507 Rev. 00",
+    "issuance": "2025-07-29",
+    "expiration": "2028-07-28"
+  },
+  {
+    "company": "T.F. MEDICAL LTD",
+    "cert_code": "C02 QMS34350 2507 Rev. 00",
+    "issuance": "2025-07-29",
+    "expiration": "2028-07-28"
   }
 ]
 }
