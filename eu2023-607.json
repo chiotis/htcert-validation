@@ -7,8 +7,8 @@
   },
   {
     "company": "Xcem Ltd",
-    "cert_code": "T12830_2024_01",
-    "issuance": "2024-05-30"
+    "cert_code": "T12830_2024_02",
+    "issuance": "2024-09-26"
   },
   {
     "company": "Taisiermed",
@@ -22,8 +22,8 @@
   },
   {
     "company": "AKRA DERMOJET",
-    "cert_code": "FR_011748_2024_01",
-    "issuance": "2024-04-23"
+    "cert_code": "FR_011748_2024_02",
+    "issuance": "2024-06-24"
   },
   {
     "company": "TH. KAZANTZIDIS SA - MEDIPAC",
@@ -59,11 +59,6 @@
     "company": "Shah Eye Care Private Limited",
     "cert_code": "IN_033189_2024_02",
     "issuance": "2024-09-04"
-  },
-  {
-    "company": "Medika-Hitex",
-    "cert_code": "TN_011562_2024_01",
-    "issuance": "2024-09-26"
   },
   {
     "company": "Fitolab İlaç Medikal Kozmetik Arge ve Danışmanlık",
@@ -122,8 +117,8 @@
   },
   {
     "company": "PRONOVA MEDİKAL SİSTEMLER SAN. VE TİC. LTD. ŞTİ.",
-    "cert_code": "TR_034180_2024_01",
-    "issuance": "2024-04-26"
+    "cert_code": "TR_034180_2024_02",
+    "issuance": "2024-05-22"
   },
   {
     "company": "Alesi-Surgical Ltd",
@@ -152,18 +147,18 @@
   },
   {
     "company": "Ultra for medical products (Ultramed) Co (U.M.I.C) S.A.E.",
-    "cert_code": "EG_038562_2024_01",
-    "issuance": "2024-02-12"
+    "cert_code": "EG_038562_2024_02",
+    "issuance": "2024-07-20"
   },
   {
     "company": "Aysam Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd.Şti.",
-    "cert_code": "TR_017437_2024_05",
-    "issuance": "2024-06-21"
+    "cert_code": "TR_017437_2024_09",
+    "issuance": "2025-08-11"
   },
   {
     "company": "Demophorius Limited",
-    "cert_code": "CY_000624_2024_03",
-    "issuance": "2024-05-20"
+    "cert_code": "CY_000624_2024_04",
+    "issuance": "2024-12-18"
   },
   {
     "company": "Blumont Healthcare Ltd",
@@ -192,8 +187,8 @@
   },
   {
     "company": "Ortimplant Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd. Sti.",
-    "cert_code": "TR_017438_2024_04",
-    "issuance": "2024-06-21"
+    "cert_code": "TR_017438_2024_08",
+    "issuance": "2025-07-01"
   },
   {
     "company": "GRUPA MEDİKAL TEKSTİL TIBBİ MAL.İKLİM.SAN.VE TİC.LTD.ŞTİ.",
@@ -271,14 +266,9 @@
     "issuance": "2024-05-08"
   },
   {
-    "company": "Nephroclinic S.A.",
-    "cert_code": "T15609_2024_03",
-    "issuance": "2024-09-24"
-  },
-  {
     "company": "MEDWAY INC",
-    "cert_code": "T15618_2024_01",
-    "issuance": "2024-05-22"
+    "cert_code": "T15618_2024_02",
+    "issuance": "2024-09-26"
   },
   {
     "company": "BODERM PHARMACEUTICAL SA",
@@ -362,8 +352,8 @@
   },
   {
     "company": "Aurolab",
-    "cert_code": "IN_007255_2024_02",
-    "issuance": "2024-05-26"
+    "cert_code": "IN_007255_2025_04",
+    "issuance": "2025-08-18"
   },
   {
     "company": "VIZO Specs Ltd",
@@ -371,7 +361,7 @@
     "issuance": "2024-05-27"
   },
   {
-    "company": "ΜΙΧΑΛΗΣ ΚΟΥΓΙΟΥΜΤΖΗΣ ΚΑΙ ΣΙΑ ΕΕ",
+    "company": "Kougioumtzis M and Co L.P",
     "cert_code": "GR_015985_2024_02",
     "issuance": "2024-08-29"
   },
@@ -417,13 +407,13 @@
   },
   {
     "company": "Aysam Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd.Şti.",
-    "cert_code": "TR_017437_2024_06",
-    "issuance": "2024-08-21"
+    "cert_code": "TR_017437_2024_10",
+    "issuance": "2025-08-11"
   },
   {
     "company": "Ortimplant Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd. Sti.",
-    "cert_code": "TR_017438_2024_05",
-    "issuance": "2024-08-21"
+    "cert_code": "TR_017438_2024_09",
+    "issuance": "2025-08-11"
   },
   {
     "company": "Egypt for medical clothes – medic",
