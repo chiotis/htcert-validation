@@ -14,8 +14,8 @@
   },
   {
     "company": "Ionic Health Technologies S.A.",
-    "cert_code": "C08 BR039811 2412 Rev.00",
-    "issuance": "2024-12-11",
+    "cert_code": "C08 BR039811 2412 Rev.01",
+    "issuance": "2025-09-24",
     "expiration": "2029-12-10"
   },
   {
@@ -53,6 +53,12 @@
     "cert_code": "C09 DE042395 2504 Rev.00",
     "issuance": "2025-04-11",
     "expiration": "2030-04-10"
+  },
+  {
+    "company": "HEALTHILY LTD",
+    "cert_code": "C08 UK049043 2510 Rev.00",
+    "issuance": "2025-10-02",
+    "expiration": "2030-10-01"
   }
 ]
 }
