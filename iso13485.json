@@ -341,6 +341,12 @@
     "cert_code": "C02 QMS34350 2507 Rev. 00",
     "issuance": "2025-07-29",
     "expiration": "2028-07-28"
+  },
+  {
+    "company": "HEALTHILY LTD",
+    "cert_code": "C02 UK049043 2510 Rev. 00",
+    "issuance": "2025-10-02",
+    "expiration": "2028-10-01"
   }
 ]
 }
