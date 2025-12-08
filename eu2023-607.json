@@ -142,8 +142,8 @@
   },
   {
     "company": "Egyptian group for medical industries",
-    "cert_code": "EG_029243_2024_02",
-    "issuance": "2024-05-27"
+    "cert_code": "EG_029243_2025_03",
+    "issuance": "2025-12-08"
   },
   {
     "company": "Ultra for medical products (Ultramed) Co (U.M.I.C) S.A.E.",
@@ -292,8 +292,8 @@
   },
   {
     "company": "Fresenius Medical Care - EG",
-    "cert_code": "EG_029042_2024_01",
-    "issuance": "2024-05-09"
+    "cert_code": "EG_029042_2025_02",
+    "issuance": "2025-12-08"
   },
   {
     "company": "NeuroEquilibrium Diagnostic Systems Pvt. Ltd.",
@@ -419,6 +419,11 @@
     "company": "Egypt for medical clothes – medic",
     "cert_code": "EG_013800_2025_01",
     "issuance": "2025-04-23"
+  },
+  {
+    "company": "Physidia",
+    "cert_code": "FR_011761_25_05_01",
+    "issuance": "2025-12-04"
   }
 ]
 }
