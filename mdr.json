@@ -71,6 +71,24 @@
     "cert_code": "C08 PT031654 2512 Rev.00",
     "issuance": "2025-12-04",
     "expiration": "2030-12-03"
+  },
+  {
+    "company": "GrupA Medikal Tekstil Tibbi Mal. Iklim. San. Ve Tic. Ltd",
+    "cert_code": "C09 TR027332 2601 Rev.00",
+    "issuance": "2026-01-12",
+    "expiration": "2031-01-11"
+  },
+  {
+    "company": "EYE-PCR B.V.",
+    "cert_code": "C07NL037443 2601 Rev.00",
+    "issuance": "2026-01-07",
+    "expiration": "2031-01-06"
+  },
+  {
+    "company": "EYE-PCR B.V.",
+    "cert_code": "C08NL037443 2601 Rev.00",
+    "issuance": "2026-01-07",
+    "expiration": "2031-01-06"
   }
 ]
 }
