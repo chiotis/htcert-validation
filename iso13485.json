@@ -13,10 +13,10 @@
     "expiration": "2028-11-21"
   },
   {
-    "company": "sofemed International",
-    "cert_code": "1154C02230102",
-    "issuance": "2023-01-16",
-    "expiration": "15/01/2026"
+    "company": "SOFEMED INTERNATIONAL S.A.",
+    "cert_code": "C02 TN005041 2601 Rev.00",
+    "issuance": "2026-01-16",
+    "expiration": "2029-01-15"
   },
   {
     "company": "Smart Tech Solution",
@@ -74,9 +74,9 @@
   },
   {
     "company": "EYE-PCR B.V.",
-    "cert_code": "1814C02230903",
-    "issuance": "2023-09-08",
-    "expiration": "2026-09-07"
+    "cert_code": "C02NL037443 2601 Rev.00",
+    "issuance": "2026-01-07",
+    "expiration": "2029-01-06"
   },
   {
     "company": "SIDAPHARM P.C.",
@@ -115,7 +115,7 @@
     "expiration": "2026-12-13"
   },
   {
-    "company": "IZMIR MEDIKAL SANAYI VE TICARET ANONIM SIRKET",
+    "company": "İZMİR MEDİKAL SANAYİ VE TİCARET ANONİM ŞİRKETİ",
     "cert_code": "C02 T15538 2405 Rev.00",
     "issuance": "2024-05-24",
     "expiration": "2027-05-23"
@@ -158,12 +158,12 @@
   },
   {
     "company": "SOTHEMA",
-    "cert_code": "6327C02230702",
+    "cert_code": "C02 QMS6327 2505 Rev.00",
     "issuance": "2023-07-26",
     "expiration": "2025-05-09"
   },
   {
-    "company": "Fresenius medical care",
+    "company": "Fresenius Medical Care - EG",
     "cert_code": "C02 EG029042 2502 Rev.00",
     "issuance": "2025-02-14",
     "expiration": "2028-02-13"
@@ -211,7 +211,7 @@
     "expiration": "2027-05-16"
   },
   {
-    "company": "“MEDALKAN” TECHNIKI EMPORIKI STAVRIDIS LTD",
+    "company": "MEDALKAN\" TECHNIKI EMPORIKI STAVRIDIS LTD",
     "cert_code": "T13180C02240501",
     "issuance": "2024-05-17",
     "expiration": "2027-05-16"
@@ -277,7 +277,7 @@
     "expiration": "2027-12-15"
   },
   {
-    "company": "Extremity Medical",
+    "company": "Extremity Medical, LLC",
     "cert_code": "C02 US018334 2502 Rev.00",
     "issuance": "2025-02-25",
     "expiration": "2028-02-24"
@@ -362,9 +362,15 @@
   },
   {
     "company": "PHYSIDIA",
-    "cert_code": "C02 FR011761 2512 Rev.00",
-    "issuance": "2025-12-04",
+    "cert_code": "C02 FR011761 2512 Rev.01",
+    "issuance": "2025-12-08",
     "expiration": "2028-05-13"
+  },
+  {
+    "company": "GrupA Medikal Tekstil Tibbi Mal. Iklim. San. Ve Tic. Ltd",
+    "cert_code": "C02 TR027332 2601 Rev.00",
+    "issuance": "2026-01-12",
+    "expiration": "2029-01-11"
   }
 ]
 }
