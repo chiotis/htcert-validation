@@ -1,52 +1,52 @@
 {
-	"cert": [
-  {
-    "company": "HIPPOKRATIS AE",
-    "cert_code": "C01 T014488 2504 Rev.00",
-    "issuance": "2025-04-30",
-    "expiration": "2028-04-29"
-  },
-  {
-    "company": "Ultra For medical products Co.",
-    "cert_code": "1421C01230502",
-    "issuance": "2023-05-21",
-    "expiration": "2026-05-20"
-  },
-  {
-    "company": "SIDAPHARM P.C.",
-    "cert_code": "C01 GR016490 2406 Rev.01",
-    "issuance": "2024-08-01",
-    "expiration": "2027-06-08"
-  },
-  {
-    "company": "VERMA DRUGS S.A.",
-    "cert_code": "T13356C01240502",
-    "issuance": "2024-05-22",
-    "expiration": "2027-05-21"
-  },
-  {
-    "company": "ALBSET-EU Sh.P.K",
-    "cert_code": "C01 AL031133 2409 Rev.00",
-    "issuance": "2024-09-22",
-    "expiration": "2027-09-21"
-  },
-  {
-    "company": "Kougioumtzis M and Co L.P",
-    "cert_code": "GR015985C01240401",
-    "issuance": "2024-04-29",
-    "expiration": "2027-04-28"
-  },
-  {
-    "company": "TH. KAZANTZIDIS SA - MEDIPAC",
-    "cert_code": "GR027637C01240501",
-    "issuance": "2024-05-17",
-    "expiration": "2027-05-16"
-  },
-  {
-    "company": "“MEDALKAN” TECHNIKI EMPORIKI STAVRIDIS LTD",
-    "cert_code": "T13180C01240501",
-    "issuance": "2024-05-17",
-    "expiration": "2027-05-16"
-  }
-]
+  "cert": [
+    {
+      "company": "HIPPOKRATIS AE",
+      "cert_code": "C01 T014488 2504 Rev.00",
+      "issuance": "2025-04-30",
+      "expiration": "2028-04-29"
+    },
+    {
+      "company": "Ultra For medical products Co.",
+      "cert_code": "1421C01230502",
+      "issuance": "2023-05-21",
+      "expiration": "2026-05-20"
+    },
+    {
+      "company": "SIDAPHARM P.C.",
+      "cert_code": "C01 GR016490 2406 Rev.01",
+      "issuance": "2024-08-01",
+      "expiration": "2027-06-08"
+    },
+    {
+      "company": "VERMA DRUGS S.A.",
+      "cert_code": "T13356C01240502",
+      "issuance": "2024-05-22",
+      "expiration": "2027-05-21"
+    },
+    {
+      "company": "ALBSET-EU Sh.P.K",
+      "cert_code": "C01 AL031133 2409 Rev.00",
+      "issuance": "2024-09-22",
+      "expiration": "2027-09-21"
+    },
+    {
+      "company": "Kougioumtzis M and Co L.P",
+      "cert_code": "GR015985C01240401",
+      "issuance": "2024-04-29",
+      "expiration": "2027-04-28"
+    },
+    {
+      "company": "TH. KAZANTZIDIS SA - MEDIPAC",
+      "cert_code": "GR027637C01240501",
+      "issuance": "2024-05-17",
+      "expiration": "2027-05-16"
+    },
+    {
+      "company": "\"MEDALKAN\" TECHNIKI EMPORIKI STAVRIDIS LTD",
+      "cert_code": "T13180C01240501",
+      "issuance": "2024-05-17",
+      "expiration": "2027-05-16"
+    }
+  ]
 }

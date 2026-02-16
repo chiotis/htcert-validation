@@ -1,429 +1,429 @@
 {
-	"cert": [
-  {
-    "company": "Scyon Orthopaedics AG",
-    "cert_code": "CH_02471_2024_01",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "Xcem Ltd",
-    "cert_code": "T12830_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "Taisiermed",
-    "cert_code": "EG_013855_2024_02",
-    "issuance": "2024-08-01"
-  },
-  {
-    "company": "SURGIMEDIC",
-    "cert_code": "EG_037019_2024_01",
-    "issuance": "2024-04-29"
-  },
-  {
-    "company": "AKRA DERMOJET",
-    "cert_code": "FR_011748_2024_02",
-    "issuance": "2024-06-24"
-  },
-  {
-    "company": "TH. KAZANTZIDIS SA - MEDIPAC",
-    "cert_code": "GR_027637_2026_04",
-    "issuance": "2026-01-19"
-  },
-  {
-    "company": "ISOMED sarl",
-    "cert_code": "FR_018485_2024_02",
-    "issuance": "2024-08-26"
-  },
-  {
-    "company": "SIDAPHARM P.C.",
-    "cert_code": "GR_016490_2024_02",
-    "issuance": "2024-05-20"
-  },
-  {
-    "company": "DEMO SA Pharmaceutical Industry",
-    "cert_code": "GR_023096_2025_03",
-    "issuance": "2025-02-21"
-  },
-  {
-    "company": "Cezmed Tıbbi Malzeme İth.İhr.San ve Tic. Ltd.Şti",
-    "cert_code": "TR_033528_2024_02",
-    "issuance": "2024-09-24"
-  },
-  {
-    "company": "HIPKNEE MEDİKAL SAN.VE TİC.LTD.ŞTİ",
-    "cert_code": "T13062_2024_04",
-    "issuance": "2024-09-04"
-  },
-  {
-    "company": "Shah Eye Care Private Limited",
-    "cert_code": "IN_033189_2024_02",
-    "issuance": "2024-09-04"
-  },
-  {
-    "company": "Fitolab İlaç Medikal Kozmetik Arge ve Danışmanlık",
-    "cert_code": "TR021451_2024_02",
-    "issuance": "2024-10-09"
-  },
-  {
-    "company": "Smart Tech Solution",
-    "cert_code": "T13159_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "ΤΕΧΝΙΚΗ ΕΜΠΟΡΙΚΗ ΣΤΑΥΡΙΔΗΣ ΕΠΕ - MEDALKAN",
-    "cert_code": "GR_027529_2024_03",
-    "issuance": "2024-06-04"
-  },
-  {
-    "company": "ESTAŞ TIBBİ MAMÜLLERİ MEDİKAL CİH. OTOMOTİV İML. İTH. İHR VE TİC. SAN. AŞ.",
-    "cert_code": "TR_021183_2024_03",
-    "issuance": "2024-05-14"
-  },
-  {
-    "company": "Disposed Health Products",
-    "cert_code": "TR_014941_24_02",
-    "issuance": "2024-08-05"
-  },
-  {
-    "company": "Gnomon Informatics S.A.",
-    "cert_code": "T13296_2024_01",
-    "issuance": "2024-05-14"
-  },
-  {
-    "company": "ORTHO CAPE",
-    "cert_code": "FR_028862_2024_03",
-    "issuance": "2024-12-16"
-  },
-  {
-    "company": "Help SA",
-    "cert_code": "GR_019269_2025_02",
-    "issuance": "2025-09-22"
-  },
-  {
-    "company": "VERMA DRUGS S.A.",
-    "cert_code": "T13356_24_02_02",
-    "issuance": "2024-09-06"
-  },
-  {
-    "company": "STROUMPOS  CHARALAMPOS - Dental materials and manufacturing solutions",
-    "cert_code": "T13441_2024_01",
-    "issuance": "2024-06-19"
-  },
-  {
-    "company": "Rumex International Ltd.",
-    "cert_code": "GB_023374_2024_01",
-    "issuance": "2024-05-26"
-  },
-  {
-    "company": "PRONOVA MEDİKAL SİSTEMLER SAN. VE TİC. LTD. ŞTİ.",
-    "cert_code": "TR_034180_2024_02",
-    "issuance": "2024-05-22"
-  },
-  {
-    "company": "Alesi-Surgical Ltd",
-    "cert_code": "GB_003881_2024_01",
-    "issuance": "2024-04-23"
-  },
-  {
-    "company": "Albomed GmbH",
-    "cert_code": "DE_007875 _2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "ACE MEDICAL DEVICES PVT LTD",
-    "cert_code": "IN_023786_2024_01",
-    "issuance": "2024-08-05"
-  },
-  {
-    "company": "CAMARK S.A.",
-    "cert_code": "T13771_2024_02",
-    "issuance": "2024-09-24"
-  },
-  {
-    "company": "Egyptian group for medical industries",
-    "cert_code": "EG_029243_2025_03",
-    "issuance": "2025-12-08"
-  },
-  {
-    "company": "Ultra for medical products (Ultramed) Co (U.M.I.C) S.A.E.",
-    "cert_code": "EG_038562_2024_02",
-    "issuance": "2024-07-20"
-  },
-  {
-    "company": "Aysam Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd.Şti.",
-    "cert_code": "TR_017437_2025_09",
-    "issuance": "2025-08-11"
-  },
-  {
-    "company": "Demophorius Limited",
-    "cert_code": "CY_000624_2025_05",
-    "issuance": "2025-09-26"
-  },
-  {
-    "company": "Blumont Healthcare Ltd",
-    "cert_code": "GB_010003_2025_02",
-    "issuance": "2025-09-26"
-  },
-  {
-    "company": "FREZYDERM INDUSTRIAL AND COMMERCIAL COMPANY OF COSMETICS MEDICINES NUTRITION S.A.",
-    "cert_code": "GR_026932_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "Cardiohealth Tibbi Urunler A.S.",
-    "cert_code": "TR_036994_2024_04",
-    "issuance": "2024-09-04"
-  },
-  {
-    "company": "TULES MEDİKAL SANAYİ VE TİCARET A.Ş.",
-    "cert_code": "TR_021053_2024_04",
-    "issuance": "2024-09-30"
-  },
-  {
-    "company": "Medwaves, Inc",
-    "cert_code": "T14296_2024_01",
-    "issuance": "2024-05-27"
-  },
-  {
-    "company": "Ortimplant Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd. Sti.",
-    "cert_code": "TR_017438_2025_08",
-    "issuance": "2025-08-18"
-  },
-  {
-    "company": "GRUPA MEDİKAL TEKSTİL TIBBİ MAL.İKLİM.SAN.VE TİC.LTD.ŞTİ.",
-    "cert_code": "TR_027332_2024_02",
-    "issuance": "2024-09-24"
-  },
-  {
-    "company": "Mavera Tıbbi Cihazlar A.S.",
-    "cert_code": "TR_019781_2024_05",
-    "issuance": "2024-09-22"
-  },
-  {
-    "company": "HIPPOKRATIS SA",
-    "cert_code": "T_14488_2025_02",
-    "issuance": "2025-02-12"
-  },
-  {
-    "company": "Modern Arch",
-    "cert_code": "US_037639_2024_02",
-    "issuance": "2024-12-19"
-  },
-  {
-    "company": "Progressive Orthodontics USA",
-    "cert_code": "T014601_2025_03",
-    "issuance": "2025-04-15"
-  },
-  {
-    "company": "EmCyte Corporation",
-    "cert_code": "US_037400_2024_01",
-    "issuance": "2024-05-10"
-  },
-  {
-    "company": "iKnowHealth S.A.",
-    "cert_code": "T_14767_2024_01",
-    "issuance": "2024-05-09"
-  },
-  {
-    "company": "IOULIA AND IRENE TSETI PHARMACEUTICAL LABORATORIES S.A.",
-    "cert_code": "GR032958_2025_02",
-    "issuance": "2025-02-21"
-  },
-  {
-    "company": "DELTEX",
-    "cert_code": "FR_002872_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "UltralinQ Healthcare Solutions Inc.",
-    "cert_code": "US30610_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "Neurosynaptic Communications Private Limited",
-    "cert_code": "IN_015562_2024_01",
-    "issuance": "2024-05-13"
-  },
-  {
-    "company": "ASTER MEDISPRO PRIVATE LIMITED",
-    "cert_code": "IN013179_2024_01c",
-    "issuance": "2024-05-17"
-  },
-  {
-    "company": "Javelin Tibbi Cihazlar Sanayi ve Ticaret Ltd. Sti.",
-    "cert_code": "TR_037979_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "İZMİR MEDİKAL SAN. VE TİC. A.Ş.",
-    "cert_code": "T15538_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "SmartCardia SA",
-    "cert_code": "CH_030647_2024_01",
-    "issuance": "2024-05-08"
-  },
-  {
-    "company": "MEDWAY INC",
-    "cert_code": "T15618_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "BODERM PHARMACEUTICAL SA",
-    "cert_code": "T15975_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "Appasamy Associates Private Limited",
-    "cert_code": "T16039 _2024_01",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "indiana ophthalmics",
-    "cert_code": "T16226_2024_02",
-    "issuance": "2024-10-21"
-  },
-  {
-    "company": "Albset-EU Sh.P.K",
-    "cert_code": "AL_031133_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "Fresenius Medical Care - EG",
-    "cert_code": "EG_029042_2025_02",
-    "issuance": "2025-12-08"
-  },
-  {
-    "company": "NeuroEquilibrium Diagnostic Systems Pvt. Ltd.",
-    "cert_code": "IN_015590_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "Kamal Encon Industries Limited",
-    "cert_code": "IN_014458_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "EMD Endoszkóp Műszer Gyártó és Kereskedelmi Kft.",
-    "cert_code": "HU_03387_2024_03",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "BRASSICA PHARMA PRIVATE LIMITED",
-    "cert_code": "T16757_2024_01",
-    "issuance": "2024-05-30"
-  },
-  {
-    "company": "Extremity Medical",
-    "cert_code": "US_018334_2025_02",
-    "issuance": "2025-02-24"
-  },
-  {
-    "company": "GEROLYMATOS INTERNATIONAL S.A.",
-    "cert_code": "GR_020680_2025_06",
-    "issuance": "2025-09-08"
-  },
-  {
-    "company": "SCHULTZ MEDICAL (UK) LTD.",
-    "cert_code": "UK_038582_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "Glintt Healthcare Solutions",
-    "cert_code": "PT_004128_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "WATERA HELLAS SA",
-    "cert_code": "GR_019282_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "İYON SAĞLIK MEDİKAL KOZMETİK İTH. İHR. SAN. TİC. A.Ş",
-    "cert_code": "TR027085_2024_02",
-    "issuance": "2024-09-25"
-  },
-  {
-    "company": "Elektra Hellas S.A.",
-    "cert_code": "T17240_2024_01",
-    "issuance": "2024-05-24"
-  },
-  {
-    "company": "Aurolab",
-    "cert_code": "IN_007255_2025_04",
-    "issuance": "2025-08-18"
-  },
-  {
-    "company": "VIZO Specs Ltd",
-    "cert_code": "T17272_2024_01",
-    "issuance": "2024-05-27"
-  },
-  {
-    "company": "Kougioumtzis M and Co L.P",
-    "cert_code": "GR_015985_2024_02",
-    "issuance": "2024-08-29"
-  },
-  {
-    "company": "BENOSTAN HEALTH PRODUCTS S.A.",
-    "cert_code": "GR_021200_2024_02",
-    "issuance": "2024-08-01"
-  },
-  {
-    "company": "PHARMEX S.A.",
-    "cert_code": "GR_019549_2024_01",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "Phytopharm Klęka SA",
-    "cert_code": "T_15521_2024_01",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "Rumex International Co.",
-    "cert_code": "T15687_2025_03",
-    "issuance": "2025-10-30"
-  },
-  {
-    "company": "CibusMed PC",
-    "cert_code": "GR_020852_2024_01",
-    "issuance": "2024-09-14"
-  },
-  {
-    "company": "CILITA Limited Liability Company",
-    "cert_code": "RU_041168_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "FROIMED S.M.P.C",
-    "cert_code": "T16707_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "Sofemed International",
-    "cert_code": "TN_005041_2024_01",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "Aysam Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd.Şti.",
-    "cert_code": "TR_017437_2025_10",
-    "issuance": "2025-08-11"
-  },
-  {
-    "company": "Ortimplant Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd. Sti.",
-    "cert_code": "TR_017438_2025_09",
-    "issuance": "2025-08-18"
-  },
-  {
-    "company": "Egypt for medical clothes – medic",
-    "cert_code": "EG_013800_2025_01",
-    "issuance": "2025-04-23"
-  },
-  {
-    "company": "Physidia",
-    "cert_code": "FR_011761_25_05_01",
-    "issuance": "2025-12-04"
-  }
-]
+  "cert": [
+    {
+      "company": "Scyon Orthopaedics AG",
+      "cert_code": "CH_02471_2024_01",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "Xcem Ltd",
+      "cert_code": "T12830_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "Taisiermed",
+      "cert_code": "EG_013855_2024_02",
+      "issuance": "2024-08-01"
+    },
+    {
+      "company": "SURGIMEDIC",
+      "cert_code": "EG_037019_2024_01",
+      "issuance": "2024-04-29"
+    },
+    {
+      "company": "AKRA DERMOJET",
+      "cert_code": "FR_011748_2024_02",
+      "issuance": "2024-06-24"
+    },
+    {
+      "company": "TH. KAZANTZIDIS SA - MEDIPAC",
+      "cert_code": "GR_027637_2026_04",
+      "issuance": "2026-01-19"
+    },
+    {
+      "company": "ISOMED sarl",
+      "cert_code": "FR_018485_2024_02",
+      "issuance": "2024-08-26"
+    },
+    {
+      "company": "SIDAPHARM P.C.",
+      "cert_code": "GR_016490_2024_02",
+      "issuance": "2024-05-20"
+    },
+    {
+      "company": "DEMO SA Pharmaceutical Industry",
+      "cert_code": "GR_023096_2025_03",
+      "issuance": "2025-02-21"
+    },
+    {
+      "company": "Cezmed Tıbbi Malzeme İth.İhr.San ve Tic. Ltd.Şti",
+      "cert_code": "TR_033528_2024_02",
+      "issuance": "2024-09-24"
+    },
+    {
+      "company": "HIPKNEE MEDİKAL SAN.VE TİC.LTD.ŞTİ",
+      "cert_code": "T13062_2024_04",
+      "issuance": "2024-09-04"
+    },
+    {
+      "company": "Shah Eye Care Private Limited",
+      "cert_code": "IN_033189_2024_02",
+      "issuance": "2024-09-04"
+    },
+    {
+      "company": "Fitolab İlaç Medikal Kozmetik Arge ve Danışmanlık",
+      "cert_code": "TR021451_2024_02",
+      "issuance": "2024-10-09"
+    },
+    {
+      "company": "Smart Tech Solution",
+      "cert_code": "T13159_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "ΤΕΧΝΙΚΗ ΕΜΠΟΡΙΚΗ ΣΤΑΥΡΙΔΗΣ ΕΠΕ - MEDALKAN",
+      "cert_code": "GR_027529_2024_03",
+      "issuance": "2024-06-04"
+    },
+    {
+      "company": "ESTAŞ TIBBİ MAMÜLLERİ MEDİKAL CİH. OTOMOTİV İML. İTH. İHR VE TİC. SAN. AŞ.",
+      "cert_code": "TR_021183_2024_03",
+      "issuance": "2024-05-14"
+    },
+    {
+      "company": "Disposed Health Products",
+      "cert_code": "TR_014941_24_02",
+      "issuance": "2024-08-05"
+    },
+    {
+      "company": "Gnomon Informatics S.A.",
+      "cert_code": "T13296_2024_01",
+      "issuance": "2024-05-14"
+    },
+    {
+      "company": "ORTHO CAPE",
+      "cert_code": "FR_028862_2024_03",
+      "issuance": "2024-12-16"
+    },
+    {
+      "company": "Help SA",
+      "cert_code": "GR_019269_2025_02",
+      "issuance": "2025-09-22"
+    },
+    {
+      "company": "VERMA DRUGS S.A.",
+      "cert_code": "T13356_24_02_02",
+      "issuance": "2024-09-06"
+    },
+    {
+      "company": "STROUMPOS  CHARALAMPOS - Dental materials and manufacturing solutions",
+      "cert_code": "T13441_2024_01",
+      "issuance": "2024-06-19"
+    },
+    {
+      "company": "Rumex International Ltd.",
+      "cert_code": "GB_023374_2024_01",
+      "issuance": "2024-05-26"
+    },
+    {
+      "company": "PRONOVA MEDİKAL SİSTEMLER SAN. VE TİC. LTD. ŞTİ.",
+      "cert_code": "TR_034180_2024_02",
+      "issuance": "2024-05-22"
+    },
+    {
+      "company": "Alesi-Surgical Ltd",
+      "cert_code": "GB_003881_2024_01",
+      "issuance": "2024-04-23"
+    },
+    {
+      "company": "Albomed GmbH",
+      "cert_code": "DE_007875 _2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "ACE MEDICAL DEVICES PVT LTD",
+      "cert_code": "IN_023786_2024_01",
+      "issuance": "2024-08-05"
+    },
+    {
+      "company": "CAMARK S.A.",
+      "cert_code": "T13771_2024_02",
+      "issuance": "2024-09-24"
+    },
+    {
+      "company": "Egyptian group for medical industries",
+      "cert_code": "EG_029243_2025_03",
+      "issuance": "2025-12-08"
+    },
+    {
+      "company": "Ultra for medical products (Ultramed) Co (U.M.I.C) S.A.E.",
+      "cert_code": "EG_038562_2024_02",
+      "issuance": "2024-07-20"
+    },
+    {
+      "company": "Aysam Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd.Şti.",
+      "cert_code": "TR_017437_2025_09",
+      "issuance": "2025-08-11"
+    },
+    {
+      "company": "Demophorius Limited",
+      "cert_code": "CY_000624_2025_05",
+      "issuance": "2025-09-26"
+    },
+    {
+      "company": "Blumont Healthcare Ltd",
+      "cert_code": "GB_010003_2025_02",
+      "issuance": "2025-09-26"
+    },
+    {
+      "company": "FREZYDERM INDUSTRIAL AND COMMERCIAL COMPANY OF COSMETICS MEDICINES NUTRITION S.A.",
+      "cert_code": "GR_026932_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "Cardiohealth Tibbi Urunler A.S.",
+      "cert_code": "TR_036994_2024_04",
+      "issuance": "2024-09-04"
+    },
+    {
+      "company": "TULES MEDİKAL SANAYİ VE TİCARET A.Ş.",
+      "cert_code": "TR_021053_2024_04",
+      "issuance": "2024-09-30"
+    },
+    {
+      "company": "Medwaves, Inc",
+      "cert_code": "T14296_2024_01",
+      "issuance": "2024-05-27"
+    },
+    {
+      "company": "Ortimplant Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd. Sti.",
+      "cert_code": "TR_017438_2025_08",
+      "issuance": "2025-08-18"
+    },
+    {
+      "company": "GRUPA MEDİKAL TEKSTİL TIBBİ MAL.İKLİM.SAN.VE TİC.LTD.ŞTİ.",
+      "cert_code": "TR_027332_2024_02",
+      "issuance": "2024-09-24"
+    },
+    {
+      "company": "Mavera Tıbbi Cihazlar A.S.",
+      "cert_code": "TR_019781_2024_05",
+      "issuance": "2024-09-22"
+    },
+    {
+      "company": "HIPPOKRATIS SA",
+      "cert_code": "T_14488_2025_02",
+      "issuance": "2025-02-12"
+    },
+    {
+      "company": "Modern Arch",
+      "cert_code": "US_037639_2024_02",
+      "issuance": "2024-12-19"
+    },
+    {
+      "company": "Progressive Orthodontics USA",
+      "cert_code": "T014601_2025_03",
+      "issuance": "2025-04-15"
+    },
+    {
+      "company": "EmCyte Corporation",
+      "cert_code": "US_037400_2024_01",
+      "issuance": "2024-05-10"
+    },
+    {
+      "company": "iKnowHealth S.A.",
+      "cert_code": "T_14767_2024_01",
+      "issuance": "2024-05-09"
+    },
+    {
+      "company": "IOULIA AND IRENE TSETI PHARMACEUTICAL LABORATORIES S.A.",
+      "cert_code": "GR032958_2025_02",
+      "issuance": "2025-02-21"
+    },
+    {
+      "company": "DELTEX",
+      "cert_code": "FR_002872_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "UltralinQ Healthcare Solutions Inc.",
+      "cert_code": "US30610_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "Neurosynaptic Communications Private Limited",
+      "cert_code": "IN_015562_2024_01",
+      "issuance": "2024-05-13"
+    },
+    {
+      "company": "ASTER MEDISPRO PRIVATE LIMITED",
+      "cert_code": "IN013179_2024_01c",
+      "issuance": "2024-05-17"
+    },
+    {
+      "company": "Javelin Tibbi Cihazlar Sanayi ve Ticaret Ltd. Sti.",
+      "cert_code": "TR_037979_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "İZMİR MEDİKAL SAN. VE TİC. A.Ş.",
+      "cert_code": "T15538_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "SmartCardia SA",
+      "cert_code": "CH_030647_2024_01",
+      "issuance": "2024-05-08"
+    },
+    {
+      "company": "MEDWAY INC",
+      "cert_code": "T15618_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "BODERM PHARMACEUTICAL SA",
+      "cert_code": "T15975_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "Appasamy Associates Private Limited",
+      "cert_code": "T16039 _2024_01",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "indiana ophthalmics",
+      "cert_code": "T16226_2024_02",
+      "issuance": "2024-10-21"
+    },
+    {
+      "company": "Albset-EU Sh.P.K",
+      "cert_code": "AL_031133_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "Fresenius Medical Care - EG",
+      "cert_code": "EG_029042_2025_02",
+      "issuance": "2025-12-08"
+    },
+    {
+      "company": "NeuroEquilibrium Diagnostic Systems Pvt. Ltd.",
+      "cert_code": "IN_015590_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "Kamal Encon Industries Limited",
+      "cert_code": "IN_014458_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "EMD Endoszkóp Műszer Gyártó és Kereskedelmi Kft.",
+      "cert_code": "HU_03387_2024_03",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "BRASSICA PHARMA PRIVATE LIMITED",
+      "cert_code": "T16757_2024_01",
+      "issuance": "2024-05-30"
+    },
+    {
+      "company": "Extremity Medical",
+      "cert_code": "US_018334_2025_02",
+      "issuance": "2025-02-24"
+    },
+    {
+      "company": "GEROLYMATOS INTERNATIONAL S.A.",
+      "cert_code": "GR_020680_2025_06",
+      "issuance": "2025-09-08"
+    },
+    {
+      "company": "SCHULTZ MEDICAL (UK) LTD.",
+      "cert_code": "UK_038582_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "Glintt Healthcare Solutions",
+      "cert_code": "PT_004128_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "WATERA HELLAS SA",
+      "cert_code": "GR_019282_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "İYON SAĞLIK MEDİKAL KOZMETİK İTH. İHR. SAN. TİC. A.Ş",
+      "cert_code": "TR027085_2024_02",
+      "issuance": "2024-09-25"
+    },
+    {
+      "company": "Elektra Hellas S.A.",
+      "cert_code": "T17240_2024_01",
+      "issuance": "2024-05-24"
+    },
+    {
+      "company": "Aurolab",
+      "cert_code": "IN_007255_2025_04",
+      "issuance": "2025-08-18"
+    },
+    {
+      "company": "VIZO Specs Ltd",
+      "cert_code": "T17272_2024_01",
+      "issuance": "2024-05-27"
+    },
+    {
+      "company": "Kougioumtzis M and Co L.P",
+      "cert_code": "GR_015985_2024_02",
+      "issuance": "2024-08-29"
+    },
+    {
+      "company": "BENOSTAN HEALTH PRODUCTS S.A.",
+      "cert_code": "GR_021200_2024_02",
+      "issuance": "2024-08-01"
+    },
+    {
+      "company": "PHARMEX S.A.",
+      "cert_code": "GR_019549_2024_01",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "Phytopharm Klęka SA",
+      "cert_code": "T_15521_2024_01",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "Rumex International Co.",
+      "cert_code": "T15687_2025_03",
+      "issuance": "2025-10-30"
+    },
+    {
+      "company": "CibusMed PC",
+      "cert_code": "GR_020852_2024_01",
+      "issuance": "2024-09-14"
+    },
+    {
+      "company": "CILITA Limited Liability Company",
+      "cert_code": "RU_041168_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "FROIMED S.M.P.C",
+      "cert_code": "T16707_2024_02",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "Sofemed International",
+      "cert_code": "TN_005041_2024_01",
+      "issuance": "2024-09-26"
+    },
+    {
+      "company": "Aysam Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd.Şti.",
+      "cert_code": "TR_017437_2025_10",
+      "issuance": "2025-08-11"
+    },
+    {
+      "company": "Ortimplant Ortopedi ve Tıbbi Aletler Sanayi Tic. Ltd. Sti.",
+      "cert_code": "TR_017438_2025_09",
+      "issuance": "2025-08-18"
+    },
+    {
+      "company": "Egypt for medical clothes – medic",
+      "cert_code": "EG_013800_2025_01",
+      "issuance": "2025-04-23"
+    },
+    {
+      "company": "Physidia",
+      "cert_code": "FR_011761_25_05_01",
+      "issuance": "2025-12-04"
+    }
+  ]
 }
