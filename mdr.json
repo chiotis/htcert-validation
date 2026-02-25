@@ -1,100 +1,118 @@
 {
   "cert": [
-    {
-      "company": "DMP Dental Industry S.A.",
-      "cert_code": "C09 GR019283 2405 Rev.00",
-      "issuance": "2024-05-24",
-      "expiration": "2029-05-23"
-    },
-    {
-      "company": "DEMOPHORIUS LTD",
-      "cert_code": "C08 CY000624 2406 Rev.00",
-      "issuance": "2024-06-12",
-      "expiration": "2029-06-11"
-    },
-    {
-      "company": "Ionic Health Technologies S.A.",
-      "cert_code": "C08 BR039811 2412 Rev.01",
-      "issuance": "2025-09-24",
-      "expiration": "2029-12-10"
-    },
-    {
-      "company": "Th. Kazantzidis S.A. - MEDIPAC",
-      "cert_code": "C08 GR027637 2412 Rev.00",
-      "issuance": "2024-12-20",
-      "expiration": "2029-12-19"
-    },
-    {
-      "company": "Th. Kazantzidis S.A. - MEDIPAC",
-      "cert_code": "C07 GR027637 2412 Rev.01",
-      "issuance": "2025-03-06",
-      "expiration": "2029-12-19"
-    },
-    {
-      "company": "Aurolab",
-      "cert_code": "C08 IN007255 2503 Rev.01",
-      "issuance": "2025-03-21",
-      "expiration": "2030-03-20"
-    },
-    {
-      "company": "Aurolab",
-      "cert_code": "C07 IN007255 2503 Rev.00",
-      "issuance": "2025-03-21",
-      "expiration": "2030-03-20"
-    },
-    {
-      "company": "Alesi Surgical Ltd",
-      "cert_code": "C08 GB003881 2503 Rev.01",
-      "issuance": "2025-06-09",
-      "expiration": "2030-03-23"
-    },
-    {
-      "company": "MEL Medical GmbH",
-      "cert_code": "C09 DE042395 2504 Rev.00",
-      "issuance": "2025-04-11",
-      "expiration": "2030-04-10"
-    },
-    {
-      "company": "HEALTHILY LTD",
-      "cert_code": "C08 UK049043 2510 Rev.00",
-      "issuance": "2025-10-02",
-      "expiration": "2030-10-01"
-    },
-    {
-      "company": "SPIKA TECH SL",
-      "cert_code": "C08 ES044822 2512 Rev.00",
-      "issuance": "2025-12-01",
-      "expiration": "2030-11-30"
-    },
-    {
-      "company": "Digestaid - Artificial Intelligence Development, SA",
-      "cert_code": "C08 PT031654 2512 Rev.00",
-      "issuance": "2025-12-04",
-      "expiration": "2030-12-03"
-    },
-    {
-      "company": "GrupA Medikal Tekstil Tibbi Mal. Iklim. San. Ve Tic. Ltd",
-      "cert_code": "C09 TR027332 2601 Rev.00",
-      "issuance": "2026-01-12",
-      "expiration": "2031-01-11"
-    },
-    {
-      "company": "EYE-PCR B.V.",
-      "cert_code": "C07 NL037443 2601 Rev.00",
-      "issuance": "2026-01-07",
-      "expiration": "2031-01-06"
-    },
-    {
-      "company": "EYE-PCR B.V.",
-      "cert_code": "C08 NL037443 2601 Rev.00",
-      "issuance": "2026-01-07",
-      "expiration": "2031-01-06"
-    },
-    {
-      "company": "Progressive Orthodontics USA",
-      "cert_code": "C08 US045054 2601 Rev.00",
-      "issuance": "2026-01-23",
-      "expiration": "2031-01-22"
-    }
-  ]
+  {
+    "company": "DMP Dental Industry S.A.",
+    "cert_code": "C09 GR019283 2405 Rev.00",
+    "issuance": "2024-05-24",
+    "expiration": "2029-05-23"
+  },
+  {
+    "company": "DEMOPHORIUS LTD",
+    "cert_code": "C08 CY000624 2406 Rev.00",
+    "issuance": "2024-06-12",
+    "expiration": "2029-06-11"
+  },
+  {
+    "company": "Ionic Health Technologies S.A.",
+    "cert_code": "C08 BR039811 2412 Rev.01",
+    "issuance": "2025-09-24",
+    "expiration": "2029-12-10"
+  },
+  {
+    "company": "Th. Kazantzidis S.A. - MEDIPAC",
+    "cert_code": "C08 GR027637 2412 Rev.01",
+    "issuance": "2026-02-09",
+    "expiration": "2029-12-19"
+  },
+  {
+    "company": "Th. Kazantzidis S.A. - MEDIPAC",
+    "cert_code": "C07 GR027637 2412 Rev.01",
+    "issuance": "2025-03-06",
+    "expiration": "2029-12-19"
+  },
+  {
+    "company": "Aurolab",
+    "cert_code": "C08 IN007255 2503 Rev.01",
+    "issuance": "2025-03-21",
+    "expiration": "2030-03-20"
+  },
+  {
+    "company": "Aurolab",
+    "cert_code": "C07 IN007255 2503 Rev.00",
+    "issuance": "2025-03-21",
+    "expiration": "2030-03-20"
+  },
+  {
+    "company": "Alesi Surgical Ltd",
+    "cert_code": "C08 GB003881 2503 Rev.01",
+    "issuance": "2025-06-09",
+    "expiration": "2030-03-23"
+  },
+  {
+    "company": "MEL Medical GmbH",
+    "cert_code": "C09 DE042395 2504 Rev.00",
+    "issuance": "2025-04-11",
+    "expiration": "2030-04-10"
+  },
+  {
+    "company": "HEALTHILY LTD",
+    "cert_code": "C08 UK049043 2510 Rev.00",
+    "issuance": "2025-10-02",
+    "expiration": "2030-10-01"
+  },
+  {
+    "company": "SPIKA TECH SL",
+    "cert_code": "C08 ES044822 2512 Rev.00",
+    "issuance": "2025-12-01",
+    "expiration": "2030-11-30"
+  },
+  {
+    "company": "Digestaid - Artificial Intelligence Development, SA",
+    "cert_code": "C08 PT031654 2512 Rev.00",
+    "issuance": "2025-12-04",
+    "expiration": "2030-12-03"
+  },
+  {
+    "company": "GrupA Medikal Tekstil Tibbi Mal. Iklim. San. Ve Tic. Ltd",
+    "cert_code": "C09 TR027332 2601 Rev.00",
+    "issuance": "2026-01-12",
+    "expiration": "2031-01-11"
+  },
+  {
+    "company": "EYE-PCR B.V.",
+    "cert_code": "C07 NL037443 2601 Rev.00",
+    "issuance": "2026-01-07",
+    "expiration": "2031-01-06"
+  },
+  {
+    "company": "EYE-PCR B.V.",
+    "cert_code": "C08 NL037443 2601 Rev.00",
+    "issuance": "2026-01-07",
+    "expiration": "2031-01-06"
+  },
+  {
+    "company": "Progressive Orthodontics USA",
+    "cert_code": "C08 US045054 2601 Rev.00",
+    "issuance": "2026-01-23",
+    "expiration": "2031-01-22"
+  },
+  {
+    "company": "EmCyte Corporation",
+    "cert_code": "C08 US037400 2601 Rev.00",
+    "issuance": "2026-01-27",
+    "expiration": "2031-01-26"
+  },
+  {
+    "company": "ASTER MEDISPRO PRIVATE LIMITED",
+    "cert_code": "C08 IN013179 202602 Rev.00",
+    "issuance": "2026-02-24",
+    "expiration": "2031-02-23"
+  },
+  {
+    "company": "SURGICON AG",
+    "cert_code": "C09 CH020566 2602 Rev.00",
+    "issuance": "2026-02-24",
+    "expiration": "2031-02-23"
+  }
+]
 }
