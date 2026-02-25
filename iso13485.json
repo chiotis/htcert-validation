@@ -1,382 +1,400 @@
 {
   "cert": [
-    {
-      "company": "HIPPOKRATIS AE",
-      "cert_code": "C02 T014488 2504 Rev.00",
-      "issuance": "2025-04-30",
-      "expiration": "2028-04-29"
-    },
-    {
-      "company": "AKRA DERMOJET",
-      "cert_code": "1144C02221002",
-      "issuance": "2025-11-22",
-      "expiration": "2028-11-21"
-    },
-    {
-      "company": "SOFEMED INTERNATIONAL S.A.",
-      "cert_code": "C02 TN005041 2601 Rev.00",
-      "issuance": "2026-01-16",
-      "expiration": "2029-01-15"
-    },
-    {
-      "company": "Smart Tech Solution",
-      "cert_code": "1164C02230402",
-      "issuance": "2023-04-30",
-      "expiration": "2027-04-29"
-    },
-    {
-      "company": "SURGIMEDIC",
-      "cert_code": "C02 EG037019 2510 Rev.00",
-      "issuance": "2025-10-27",
-      "expiration": "2028-10-26"
-    },
-    {
-      "company": "Mavera Tıbbi Cihazlar A.Ş.",
-      "cert_code": "1181C02230802",
-      "issuance": "2023-08-26",
-      "expiration": "2026-08-27"
-    },
-    {
-      "company": "Scyon Orthopaedics AG",
-      "cert_code": "1224C02230502",
-      "issuance": "2023-07-29",
-      "expiration": "2026-07-28"
-    },
-    {
-      "company": "Egyptian group for medical industries",
-      "cert_code": "1227C02230403",
-      "issuance": "2023-04-20",
-      "expiration": "2026-04-14"
-    },
-    {
-      "company": "Taisiermed",
-      "cert_code": "C02 EG013855 2502 Rev.00",
-      "issuance": "2025-02-14",
-      "expiration": "2028-02-13"
-    },
-    {
-      "company": "MedWaves, Inc.",
-      "cert_code": "1258C02231102",
-      "issuance": "2023-11-27",
-      "expiration": "2026-11-26"
-    },
-    {
-      "company": "SmartCardia SA",
-      "cert_code": "1260C02230202",
-      "issuance": "2023-02-19",
-      "expiration": "2026-02-18"
-    },
-    {
-      "company": "Ultra For medical products Co.",
-      "cert_code": "1421C02230503",
-      "issuance": "2023-05-21",
-      "expiration": "2026-05-20"
-    },
-    {
-      "company": "EYE-PCR B.V.",
-      "cert_code": "C02NL037443 2601 Rev.00",
-      "issuance": "2026-01-07",
-      "expiration": "2029-01-06"
-    },
-    {
-      "company": "SIDAPHARM P.C.",
-      "cert_code": "C02 GR016490 2406 Rev.01",
-      "issuance": "2024-08-01",
-      "expiration": "2027-06-08"
-    },
-    {
-      "company": "VERMA DRUGS S.A.",
-      "cert_code": "T13356C02240502",
-      "issuance": "2024-05-22",
-      "expiration": "2027-05-21"
-    },
-    {
-      "company": "Indiana Ophthalmics LLP",
-      "cert_code": "T16226C02240503",
-      "issuance": "2024-05-25",
-      "expiration": "2027-05-24"
-    },
-    {
-      "company": "ISOMed S.a.r.l.",
-      "cert_code": "FR018485C02240401",
-      "issuance": "2024-04-12",
-      "expiration": "2027-04-11"
-    },
-    {
-      "company": "Med Way Inc",
-      "cert_code": "T15618C02240503",
-      "issuance": "2024-06-12",
-      "expiration": "2027-05-22"
-    },
-    {
-      "company": "Medochemie Ltd",
-      "cert_code": "2211C02231202",
-      "issuance": "2023-12-14",
-      "expiration": "2026-12-13"
-    },
-    {
-      "company": "İZMİR MEDİKAL SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-      "cert_code": "C02 T15538 2405 Rev.00",
-      "issuance": "2024-05-24",
-      "expiration": "2027-05-23"
-    },
-    {
-      "company": "Agetis supplements Ltd",
-      "cert_code": "2229C02231202",
-      "issuance": "2023-12-14",
-      "expiration": "2026-12-13"
-    },
-    {
-      "company": "Demophorius Ltd",
-      "cert_code": "CY000624C02240504",
-      "issuance": "2024-05-25",
-      "expiration": "2027-05-24"
-    },
-    {
-      "company": "Rumex International Ltd.",
-      "cert_code": "GB023374C02240503",
-      "issuance": "2024-05-23",
-      "expiration": "2027-05-22"
-    },
-    {
-      "company": "GNOMON INFORMATICS S.A",
-      "cert_code": "C02 T13296 2405 Rev. 01",
-      "issuance": "2025-07-07",
-      "expiration": "2027-05-23"
-    },
-    {
-      "company": "Aurolab",
-      "cert_code": "IN007255C02240503",
-      "issuance": "2024-05-23",
-      "expiration": "2027-05-22"
-    },
-    {
-      "company": "ALBSET-EU Sh.P.K",
-      "cert_code": "C02 AL031133 2409 Rev.00",
-      "issuance": "2024-09-22",
-      "expiration": "2027-09-21"
-    },
-    {
-      "company": "SOTHEMA",
-      "cert_code": "C02 QMS6327 2505 Rev.00",
-      "issuance": "2023-07-26",
-      "expiration": "2025-05-09"
-    },
-    {
-      "company": "Fresenius Medical Care - EG",
-      "cert_code": "C02 EG029042 2502 Rev.00",
-      "issuance": "2025-02-14",
-      "expiration": "2028-02-13"
-    },
-    {
-      "company": "CibusMed PC",
-      "cert_code": "C02 GR020852 2507 Rev. 00",
-      "issuance": "2025-07-09",
-      "expiration": "2028-07-08"
-    },
-    {
-      "company": "Ultralinq Healthcare Solutions Inc.",
-      "cert_code": "10121C02230301",
-      "issuance": "2023-03-10",
-      "expiration": "2026-03-09"
-    },
-    {
-      "company": "iKnowHealth S.A.",
-      "cert_code": "16755C02240301",
-      "issuance": "2024-03-16",
-      "expiration": "2027-03-15"
-    },
-    {
-      "company": "Modern Arch LLC",
-      "cert_code": "US037639C02240301",
-      "issuance": "2024-03-29",
-      "expiration": "2027-03-28"
-    },
-    {
-      "company": "Kougioumtzis M and Co L.P",
-      "cert_code": "GR015985C02240401",
-      "issuance": "2024-04-29",
-      "expiration": "2027-04-28"
-    },
-    {
-      "company": "Ortho Cape",
-      "cert_code": "FR028862C02240501",
-      "issuance": "2024-05-15",
-      "expiration": "2027-04-14"
-    },
-    {
-      "company": "TH. KAZANTZIDIS SA - MEDIPAC",
-      "cert_code": "GR027637C02240501",
-      "issuance": "2024-05-17",
-      "expiration": "2027-05-16"
-    },
-    {
-      "company": "\"MEDALKAN\" TECHNIKI EMPORIKI STAVRIDIS LTD",
-      "cert_code": "T13180C02240501",
-      "issuance": "2024-05-17",
-      "expiration": "2027-05-16"
-    },
-    {
-      "company": "DMP Dental Industry S.A.",
-      "cert_code": "GR019283C02240502",
-      "issuance": "2024-05-24",
-      "expiration": "2027-05-23"
-    },
-    {
-      "company": "STROUMPOS H E-DENTAL",
-      "cert_code": "C02 T13441 2408 Rev.01",
-      "issuance": "2024-08-26",
-      "expiration": "2027-08-25"
-    },
-    {
-      "company": "PRONOVA MEDİKAL SİSTEMLER SAN. VE TİC. LTD. ŞTİ.",
-      "cert_code": "C02 TR034180 2408 Rev.01",
-      "issuance": "2024-08-29",
-      "expiration": "2027-08-28"
-    },
-    {
-      "company": "Rumex International Co.",
-      "cert_code": "C02 T15687 2409 Rev.00",
-      "issuance": "2024-09-20",
-      "expiration": "2027-09-19"
-    },
-    {
-      "company": "Blumont Healthcare Limited",
-      "cert_code": "C02 GB010003 2410 Rev.00",
-      "issuance": "2024-10-01",
-      "expiration": "2027-09-30"
-    },
-    {
-      "company": "Help SA",
-      "cert_code": "C02 GR019269 2410 Rev.00",
-      "issuance": "2024-10-10",
-      "expiration": "2027-10-09"
-    },
-    {
-      "company": "Karageorgiadis - Vasileiou & SIA OE, EYEART",
-      "cert_code": "C02 17996 2411 Rev.00",
-      "issuance": "2024-11-08",
-      "expiration": "2027-11-07"
-    },
-    {
-      "company": "DELTEX",
-      "cert_code": "C02 FR002872 2412 Rev.00",
-      "issuance": "2024-12-09",
-      "expiration": "2027-12-08"
-    },
-    {
-      "company": "CPO SCIENTRONICS LTD",
-      "cert_code": "C02 QMS20360 2412 Rev.01",
-      "issuance": "2025-01-24",
-      "expiration": "2027-12-09"
-    },
-    {
-      "company": "Alesi Surgical Ltd",
-      "cert_code": "C02 GB003881 2412 Rev.00",
-      "issuance": "2024-12-16",
-      "expiration": "2027-12-15"
-    },
-    {
-      "company": "Extremity Medical, LLC",
-      "cert_code": "C02 US018334 2502 Rev.00",
-      "issuance": "2025-02-25",
-      "expiration": "2028-02-24"
-    },
-    {
-      "company": "C.A. PAPAELLINAS LTD",
-      "cert_code": "C02 QMS19376 2502 Rev.00",
-      "issuance": "2025-02-21",
-      "expiration": "2028-02-20"
-    },
-    {
-      "company": "Kinisiforo Ltd",
-      "cert_code": "C02 QMS22785 2504 Rev.00",
-      "issuance": "2025-04-14",
-      "expiration": "2028-04-13"
-    },
-    {
-      "company": "MEL Medical GmbH",
-      "cert_code": "C02 DE042395 2504 Rev.00",
-      "issuance": "2025-04-11",
-      "expiration": "2028-04-10"
-    },
-    {
-      "company": "Progressive Orthodontics USA",
-      "cert_code": "C02 US045054 2503 Rev.00",
-      "issuance": "2025-04-01",
-      "expiration": "2028-03-31"
-    },
-    {
-      "company": "EMD Endoszkóp Műszer Gyártó és Kereskedelmi Kft.",
-      "cert_code": "C02 HU003387 2505 Rev.00",
-      "issuance": "2025-05-21",
-      "expiration": "2028-05-20"
-    },
-    {
-      "company": "eXagotec GmbH",
-      "cert_code": "C02 QMS21477 2506 Rev. 00",
-      "issuance": "2025-06-20",
-      "expiration": "2028-06-19"
-    },
-    {
-      "company": "V.D. MEDICAL LTD",
-      "cert_code": "C02 QMS34349 2507 Rev. 00",
-      "issuance": "2025-07-29",
-      "expiration": "2028-07-28"
-    },
-    {
-      "company": "T.F. MEDICAL LTD",
-      "cert_code": "C02 QMS34350 2507 Rev. 00",
-      "issuance": "2025-07-29",
-      "expiration": "2028-07-28"
-    },
-    {
-      "company": "HEALTHILY LTD",
-      "cert_code": "C02 UK049043 2510 Rev. 00",
-      "issuance": "2025-10-02",
-      "expiration": "2028-10-01"
-    },
-    {
-      "company": "UltraGreen Data Systems, Inc",
-      "cert_code": "C02 QMS24892 2511 Rev.00",
-      "issuance": "2025-11-14",
-      "expiration": "2028-11-13"
-    },
-    {
-      "company": "Aisthesis Medical Limited",
-      "cert_code": "C02 QMS21899 2511 Rev.00",
-      "issuance": "2025-11-18",
-      "expiration": "2028-11-17"
-    },
-    {
-      "company": "SPIKA TECH SL",
-      "cert_code": "C02 ES044822 2512 Rev. 00",
-      "issuance": "2025-12-01",
-      "expiration": "2028-11-30"
-    },
-    {
-      "company": "Digestaid - Artificial Intelligence Development, SA",
-      "cert_code": "C02 PT031654 2512 Rev.00",
-      "issuance": "2025-12-04",
-      "expiration": "2028-12-03"
-    },
-    {
-      "company": "PHYSIDIA",
-      "cert_code": "C02 FR011761 2512 Rev.01",
-      "issuance": "2025-12-08",
-      "expiration": "2028-05-13"
-    },
-    {
-      "company": "GrupA Medikal Tekstil Tibbi Mal. Iklim. San. Ve Tic. Ltd",
-      "cert_code": "C02 TR027332 2601 Rev.00",
-      "issuance": "2026-01-12",
-      "expiration": "2029-01-11"
-    },
-    {
-      "company": "WATERA HELLAS S.A.",
-      "cert_code": "C02 GR019282 2601 Rev.00",
-      "issuance": "2026-01-20",
-      "expiration": "2029-01-19"
-    }
-  ]
+  {
+    "company": "HIPPOKRATIS AE",
+    "cert_code": "C02 T014488 2504 Rev.00",
+    "issuance": "2025-04-30",
+    "expiration": "2028-04-29"
+  },
+  {
+    "company": "AKRA DERMOJET",
+    "cert_code": "1144C02221002",
+    "issuance": "2025-11-22",
+    "expiration": "2028-11-21"
+  },
+  {
+    "company": "SOFEMED INTERNATIONAL S.A.",
+    "cert_code": "C02 TN005041 2601 Rev.00",
+    "issuance": "2026-01-16",
+    "expiration": "2029-01-15"
+  },
+  {
+    "company": "Smart Tech Solution",
+    "cert_code": "1164C02230402",
+    "issuance": "2023-04-30",
+    "expiration": "2027-04-29"
+  },
+  {
+    "company": "SURGIMEDIC",
+    "cert_code": "C02 EG037019 2510 Rev.00",
+    "issuance": "2025-10-27",
+    "expiration": "2028-10-26"
+  },
+  {
+    "company": "Mavera Tıbbi Cihazlar A.Ş.",
+    "cert_code": "1181C02230802",
+    "issuance": "2023-08-26",
+    "expiration": "2026-08-27"
+  },
+  {
+    "company": "Scyon Orthopaedics AG",
+    "cert_code": "1224C02230502",
+    "issuance": "2023-07-29",
+    "expiration": "2026-07-28"
+  },
+  {
+    "company": "Egyptian group for medical industries",
+    "cert_code": "1227C02230403",
+    "issuance": "2023-04-20",
+    "expiration": "2026-04-14"
+  },
+  {
+    "company": "Taisiermed",
+    "cert_code": "C02 EG013855 2502 Rev.00",
+    "issuance": "2025-02-14",
+    "expiration": "2028-02-13"
+  },
+  {
+    "company": "MedWaves, Inc.",
+    "cert_code": "1258C02231102",
+    "issuance": "2023-11-27",
+    "expiration": "2026-11-26"
+  },
+  {
+    "company": "SmartCardia SA",
+    "cert_code": "C02 CH030647 2602 Rev.00",
+    "issuance": "2026-02-19",
+    "expiration": "2029-02-18"
+  },
+  {
+    "company": "Ultra For medical products Co.",
+    "cert_code": "1421C02230503",
+    "issuance": "2023-05-21",
+    "expiration": "2026-05-20"
+  },
+  {
+    "company": "EYE-PCR B.V.",
+    "cert_code": "C02 NL037443 2601 Rev.00",
+    "issuance": "2026-01-07",
+    "expiration": "2029-01-06"
+  },
+  {
+    "company": "SIDAPHARM P.C.",
+    "cert_code": "C02 GR016490 2406 Rev.01",
+    "issuance": "2024-08-01",
+    "expiration": "2027-06-08"
+  },
+  {
+    "company": "VERMA DRUGS S.A.",
+    "cert_code": "T13356C02240502",
+    "issuance": "2024-05-22",
+    "expiration": "2027-05-21"
+  },
+  {
+    "company": "Indiana Ophthalmics LLP",
+    "cert_code": "T16226C02240503",
+    "issuance": "2024-05-25",
+    "expiration": "2027-05-24"
+  },
+  {
+    "company": "ISOMed S.a.r.l.",
+    "cert_code": "FR018485C02240401",
+    "issuance": "2024-04-12",
+    "expiration": "2027-04-11"
+  },
+  {
+    "company": "Med Way Inc",
+    "cert_code": "T15618C02240503",
+    "issuance": "2024-06-12",
+    "expiration": "2027-05-22"
+  },
+  {
+    "company": "Medochemie Ltd",
+    "cert_code": "2211C02231202",
+    "issuance": "2023-12-14",
+    "expiration": "2026-12-13"
+  },
+  {
+    "company": "İZMİR MEDİKAL SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+    "cert_code": "C02 T15538 2405 Rev.00",
+    "issuance": "2024-05-24",
+    "expiration": "2027-05-23"
+  },
+  {
+    "company": "Agetis supplements Ltd",
+    "cert_code": "2229C02231202",
+    "issuance": "2023-12-14",
+    "expiration": "2026-12-13"
+  },
+  {
+    "company": "Demophorius Ltd",
+    "cert_code": "CY000624C02240504",
+    "issuance": "2024-05-25",
+    "expiration": "2027-05-24"
+  },
+  {
+    "company": "Rumex International Ltd.",
+    "cert_code": "GB023374C02240503",
+    "issuance": "2024-05-23",
+    "expiration": "2027-05-22"
+  },
+  {
+    "company": "GNOMON INFORMATICS S.A",
+    "cert_code": "C02 T13296 2405 Rev. 01",
+    "issuance": "2025-07-07",
+    "expiration": "2027-05-23"
+  },
+  {
+    "company": "Aurolab",
+    "cert_code": "IN007255C02240503",
+    "issuance": "2024-05-23",
+    "expiration": "2027-05-22"
+  },
+  {
+    "company": "ALBSET-EU Sh.P.K",
+    "cert_code": "C02 AL031133 2409 Rev.00",
+    "issuance": "2024-09-22",
+    "expiration": "2027-09-21"
+  },
+  {
+    "company": "SOTHEMA",
+    "cert_code": "C02 QMS6327 2505 Rev.00",
+    "issuance": "2025-05-10",
+    "expiration": "2028-05-09"
+  },
+  {
+    "company": "Fresenius Medical Care - EG",
+    "cert_code": "C02 EG029042 2502 Rev.00",
+    "issuance": "2025-02-14",
+    "expiration": "2028-02-13"
+  },
+  {
+    "company": "CibusMed PC",
+    "cert_code": "C02 GR020852 2507 Rev. 00",
+    "issuance": "2025-07-09",
+    "expiration": "2028-07-08"
+  },
+  {
+    "company": "Ultralinq Healthcare Solutions Inc.",
+    "cert_code": "10121C02230301",
+    "issuance": "2023-03-10",
+    "expiration": "2026-03-09"
+  },
+  {
+    "company": "iKnowHealth S.A.",
+    "cert_code": "16755C02240301",
+    "issuance": "2024-03-16",
+    "expiration": "2027-03-15"
+  },
+  {
+    "company": "Modern Arch LLC",
+    "cert_code": "US037639C02240301",
+    "issuance": "2024-03-29",
+    "expiration": "2027-03-28"
+  },
+  {
+    "company": "Kougioumtzis M and Co L.P",
+    "cert_code": "GR015985C02240401",
+    "issuance": "2024-04-29",
+    "expiration": "2027-04-28"
+  },
+  {
+    "company": "Ortho Cape",
+    "cert_code": "FR028862C02240501",
+    "issuance": "2024-05-15",
+    "expiration": "2027-04-14"
+  },
+  {
+    "company": "TH. KAZANTZIDIS SA - MEDIPAC",
+    "cert_code": "GR027637C02240501",
+    "issuance": "2024-05-17",
+    "expiration": "2027-05-16"
+  },
+  {
+    "company": "MEDALKAN\" TECHNIKI EMPORIKI STAVRIDIS LTD",
+    "cert_code": "T13180C02240501",
+    "issuance": "2024-05-17",
+    "expiration": "2027-05-16"
+  },
+  {
+    "company": "DMP Dental Industry S.A.",
+    "cert_code": "GR019283C02240502",
+    "issuance": "2024-05-24",
+    "expiration": "2027-05-23"
+  },
+  {
+    "company": "STROUMPOS H E-DENTAL",
+    "cert_code": "C02 T13441 2408 Rev.01",
+    "issuance": "2024-08-26",
+    "expiration": "2027-08-25"
+  },
+  {
+    "company": "PRONOVA MEDİKAL SİSTEMLER SAN. VE TİC. LTD. ŞTİ.",
+    "cert_code": "C02 TR034180 2408 Rev.01",
+    "issuance": "2024-08-29",
+    "expiration": "2027-08-28"
+  },
+  {
+    "company": "Rumex International Co.",
+    "cert_code": "C02 T15687 2409 Rev.00",
+    "issuance": "2024-09-20",
+    "expiration": "2027-09-19"
+  },
+  {
+    "company": "Blumont Healthcare Limited",
+    "cert_code": "C02 GB010003 2410 Rev.00",
+    "issuance": "2024-10-01",
+    "expiration": "2027-09-30"
+  },
+  {
+    "company": "Help SA",
+    "cert_code": "C02 GR019269 2410 Rev.00",
+    "issuance": "2024-10-10",
+    "expiration": "2027-10-09"
+  },
+  {
+    "company": "Karageorgiadis - Vasileiou & SIA OE, EYEART",
+    "cert_code": "C02 17996 2411 Rev.00",
+    "issuance": "2024-11-08",
+    "expiration": "2027-11-07"
+  },
+  {
+    "company": "DELTEX",
+    "cert_code": "C02 FR002872 2412 Rev.00",
+    "issuance": "2024-12-09",
+    "expiration": "2027-12-08"
+  },
+  {
+    "company": "CPO SCIENTRONICS LTD",
+    "cert_code": "C02 QMS20360 2412 Rev.02",
+    "issuance": "2026-01-29",
+    "expiration": "2027-12-09"
+  },
+  {
+    "company": "Alesi Surgical Ltd",
+    "cert_code": "C02 GB003881 2412 Rev.00",
+    "issuance": "2024-12-16",
+    "expiration": "2027-12-15"
+  },
+  {
+    "company": "Extremity Medical, LLC",
+    "cert_code": "C02 US018334 2502 Rev.00",
+    "issuance": "2025-02-25",
+    "expiration": "2028-02-24"
+  },
+  {
+    "company": "C.A. PAPAELLINAS LTD",
+    "cert_code": "C02 QMS19376 2502 Rev.00",
+    "issuance": "2025-02-21",
+    "expiration": "2028-02-20"
+  },
+  {
+    "company": "MEL Medical GmbH",
+    "cert_code": "C02 DE042395 2504 Rev.00",
+    "issuance": "2025-04-11",
+    "expiration": "2028-04-10"
+  },
+  {
+    "company": "Progressive Orthodontics USA",
+    "cert_code": "C02 US045054 2503 Rev.00",
+    "issuance": "2025-04-01",
+    "expiration": "2028-03-31"
+  },
+  {
+    "company": "EMD Endoszkóp Műszer Gyártó és Kereskedelmi Kft.",
+    "cert_code": "C02 HU003387 2505 Rev.00",
+    "issuance": "2025-05-21",
+    "expiration": "2028-05-20"
+  },
+  {
+    "company": "eXagotec GmbH",
+    "cert_code": "C02 QMS21477 2506 Rev. 00",
+    "issuance": "2025-06-20",
+    "expiration": "2028-06-19"
+  },
+  {
+    "company": "V.D. MEDICAL LTD",
+    "cert_code": "C02 QMS34349 2507 Rev. 00",
+    "issuance": "2025-07-29",
+    "expiration": "2028-07-28"
+  },
+  {
+    "company": "T.F. MEDICAL LTD",
+    "cert_code": "C02 QMS34350 2507 Rev. 00",
+    "issuance": "2025-07-29",
+    "expiration": "2028-07-28"
+  },
+  {
+    "company": "HEALTHILY LTD",
+    "cert_code": "C02 UK049043 2510 Rev. 00",
+    "issuance": "2025-10-02",
+    "expiration": "2028-10-01"
+  },
+  {
+    "company": "UltraGreen Data Systems, Inc",
+    "cert_code": "C02 QMS24892 2511 Rev.00",
+    "issuance": "2025-11-14",
+    "expiration": "2028-11-13"
+  },
+  {
+    "company": "Aisthesis Medical Limited",
+    "cert_code": "C02 QMS21899 2511 Rev.00",
+    "issuance": "2025-11-18",
+    "expiration": "2028-11-17"
+  },
+  {
+    "company": "SPIKA TECH SL",
+    "cert_code": "C02 ES044822 2512 Rev. 00",
+    "issuance": "2025-12-01",
+    "expiration": "2028-11-30"
+  },
+  {
+    "company": "Digestaid - Artificial Intelligence Development, SA",
+    "cert_code": "C02 PT031654 2512 Rev.00",
+    "issuance": "2025-12-04",
+    "expiration": "2028-12-03"
+  },
+  {
+    "company": "PHYSIDIA",
+    "cert_code": "C02 FR011761 2512 Rev.01",
+    "issuance": "2025-12-08",
+    "expiration": "2028-05-13"
+  },
+  {
+    "company": "GrupA Medikal Tekstil Tibbi Mal. Iklim. San. Ve Tic. Ltd",
+    "cert_code": "C02 TR027332 2601 Rev.00",
+    "issuance": "2026-01-12",
+    "expiration": "2029-01-11"
+  },
+  {
+    "company": "WATERA HELLAS S.A.",
+    "cert_code": "C02 GR019282 2601 Rev.00",
+    "issuance": "2026-01-20",
+    "expiration": "2029-01-19"
+  },
+  {
+    "company": "Elektra Hellas S.A.",
+    "cert_code": "C02 T17240 2505 Rev.00",
+    "issuance": "2025-05-02",
+    "expiration": "2028-05-01"
+  },
+  {
+    "company": "",
+    "cert_code": "",
+    "issuance": "",
+    "expiration": ""
+  },
+  {
+    "company": "",
+    "cert_code": "",
+    "issuance": "",
+    "expiration": ""
+  },
+  {
+    "company": "",
+    "cert_code": "",
+    "issuance": "",
+    "expiration": ""
+  }
+]
 }
