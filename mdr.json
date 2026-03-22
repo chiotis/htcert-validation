@@ -32,14 +32,14 @@
   },
   {
     "company": "Aurolab",
-    "cert_code": "C08 IN007255 2503 Rev.01",
-    "issuance": "2025-03-21",
+    "cert_code": "C08 IN007255 2503 Rev.02",
+    "issuance": "2025-09-12",
     "expiration": "2030-03-20"
   },
   {
     "company": "Aurolab",
-    "cert_code": "C07 IN007255 2503 Rev.00",
-    "issuance": "2025-03-21",
+    "cert_code": "C07 IN007255 2503 Rev.01",
+    "issuance": "2025-09-12",
     "expiration": "2030-03-20"
   },
   {
@@ -57,6 +57,12 @@
   {
     "company": "HEALTHILY LTD",
     "cert_code": "C08 UK049043 2510 Rev.00",
+    "issuance": "2025-10-02",
+    "expiration": "2030-10-01"
+  },
+  {
+    "company": "Ultra for medical products (Ultramed) Co (U.M.I.C) S.A.E.",
+    "cert_code": "C09 EG038562 2510 Rev.00",
     "issuance": "2025-10-02",
     "expiration": "2030-10-01"
   },
@@ -104,7 +110,7 @@
   },
   {
     "company": "ASTER MEDISPRO PRIVATE LIMITED",
-    "cert_code": "C08 IN013179 202602 Rev.00",
+    "cert_code": "C08 IN013179 2602 Rev.00",
     "issuance": "2026-02-24",
     "expiration": "2031-02-23"
   },
@@ -113,6 +119,12 @@
     "cert_code": "C09 CH020566 2602 Rev.00",
     "issuance": "2026-02-24",
     "expiration": "2031-02-23"
+  },
+  {
+    "company": "AVI Healthcare Private Limited",
+    "cert_code": "C08 IN014676 2603 Rev.00",
+    "issuance": "2026-03-18",
+    "expiration": "2031-03-17"
   }
 ]
 }
