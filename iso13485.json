@@ -44,9 +44,9 @@
   },
   {
     "company": "Egyptian group for medical industries",
-    "cert_code": "1227C02230403",
-    "issuance": "2023-04-20",
-    "expiration": "2026-04-14"
+    "cert_code": "C02 EG029243 2603 Rev.00",
+    "issuance": "2026-04-15",
+    "expiration": "2029-04-14"
   },
   {
     "company": "Taisiermed",
@@ -68,9 +68,9 @@
   },
   {
     "company": "Ultra For medical products Co.",
-    "cert_code": "1421C02230503",
-    "issuance": "2023-05-21",
-    "expiration": "2026-05-20"
+    "cert_code": "C02 EG038562 2510 Rev.00",
+    "issuance": "2025-10-02",
+    "expiration": "2028-10-01"
   },
   {
     "company": "EYE-PCR B.V.",
@@ -379,10 +379,10 @@
     "expiration": "2028-05-01"
   },
   {
-    "company": "",
-    "cert_code": "",
-    "issuance": "",
-    "expiration": ""
+    "company": "COOPER PHARMACEUTICALS S.A.",
+    "cert_code": "C02 EL044671 2603 Rev.00",
+    "issuance": "2026-03-18",
+    "expiration": "2028-08-01"
   },
   {
     "company": "",
