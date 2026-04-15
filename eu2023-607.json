@@ -302,8 +302,8 @@
   },
   {
     "company": "Kamal Encon Industries Limited",
-    "cert_code": "IN_014458_2024_02",
-    "issuance": "2024-09-26"
+    "cert_code": "IN_014458_2024_03",
+    "issuance": "2026-03-26"
   },
   {
     "company": "EMD Endoszkóp Műszer Gyártó és Kereskedelmi Kft.",
@@ -424,6 +424,11 @@
     "company": "Physidia",
     "cert_code": "FR_011761_25_05_01",
     "issuance": "2025-12-04"
+  },
+  {
+    "company": "SIORA SURGICALS PRIVATE LIMITED",
+    "cert_code": "IN_036226_26_01",
+    "issuance": "2026-03-26"
   }
 ]
 }
