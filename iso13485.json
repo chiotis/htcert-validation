@@ -20,9 +20,9 @@
   },
   {
     "company": "Smart Tech Solution",
-    "cert_code": "1164C02230402",
-    "issuance": "2023-04-30",
-    "expiration": "2027-04-29"
+    "cert_code": "C02 T13159 2604 Rev.00",
+    "issuance": "2026-04-30",
+    "expiration": "2029-04-29"
   },
   {
     "company": "SURGIMEDIC",
@@ -242,9 +242,9 @@
   },
   {
     "company": "Blumont Healthcare Limited",
-    "cert_code": "C02 GB010003 2410 Rev.00",
-    "issuance": "2024-10-01",
-    "expiration": "2027-09-30"
+    "cert_code": "C02 GB010003 2604 Rev.00",
+    "issuance": "2026-04-06",
+    "expiration": "2029-04-05"
   },
   {
     "company": "Help SA",
@@ -385,10 +385,10 @@
     "expiration": "2028-08-01"
   },
   {
-    "company": "",
-    "cert_code": "",
-    "issuance": "",
-    "expiration": ""
+    "company": "DIESTIA SYSTEMS P.C.",
+    "cert_code": "C02 QMS22602 2604 Rev.00",
+    "issuance": "2026-04-14",
+    "expiration": "2029-04-13"
   },
   {
     "company": "",
