@@ -125,6 +125,30 @@
     "cert_code": "C08 IN014676 2603 Rev.00",
     "issuance": "2026-03-18",
     "expiration": "2031-03-17"
+  },
+  {
+    "company": "COOPER PHARMACEUTICALS S.A. (COOPER S.A.)",
+    "cert_code": "C08 EL044671 2604 Rev.00",
+    "issuance": "2026-04-03",
+    "expiration": "2031-04-02"
+  },
+  {
+    "company": "Egypt for medical clothes - medic",
+    "cert_code": "C09 EG013800 2604 Rev.00",
+    "issuance": "2026-04-06",
+    "expiration": "2031-04-05"
+  },
+  {
+    "company": "Blumont Healthcare Ltd",
+    "cert_code": "C08 GB010003 2604 Rev.00",
+    "issuance": "2026-04-06",
+    "expiration": "2031-04-05"
+  },
+  {
+    "company": "Appasamy Associates Private Limited",
+    "cert_code": "C08 IN040338 2604 Rev.00",
+    "issuance": "2026-04-27",
+    "expiration": "2031-04-26"
   }
 ]
 }
