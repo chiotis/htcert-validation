@@ -206,11 +206,6 @@
     "issuance": "2025-02-12"
   },
   {
-    "company": "Modern Arch",
-    "cert_code": "US_037639_2024_02",
-    "issuance": "2024-12-19"
-  },
-  {
     "company": "Progressive Orthodontics USA",
     "cert_code": "T014601_2025_03",
     "issuance": "2025-04-15"
@@ -302,7 +297,7 @@
   },
   {
     "company": "Kamal Encon Industries Limited",
-    "cert_code": "IN_014458_2024_03",
+    "cert_code": "IN_014458_2026_03",
     "issuance": "2026-03-26"
   },
   {
@@ -322,8 +317,8 @@
   },
   {
     "company": "GEROLYMATOS INTERNATIONAL S.A.",
-    "cert_code": "GR_020680_2025_06",
-    "issuance": "2025-09-08"
+    "cert_code": "GR_020680_2026_07",
+    "issuance": "2026-04-23"
   },
   {
     "company": "SCHULTZ MEDICAL (UK) LTD.",
@@ -427,8 +422,8 @@
   },
   {
     "company": "SIORA SURGICALS PRIVATE LIMITED",
-    "cert_code": "IN_036226_26_01",
-    "issuance": "2026-03-26"
+    "cert_code": "IN_036226_26_02",
+    "issuance": "2026-04-09"
   }
 ]
 }
