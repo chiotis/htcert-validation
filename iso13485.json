@@ -98,8 +98,8 @@
   },
   {
     "company": "ISOMed S.a.r.l.",
-    "cert_code": "FR018485C02240401",
-    "issuance": "2024-04-12",
+    "cert_code": "C02 FR018485 2605 Rev.00",
+    "issuance": "2026-05-29",
     "expiration": "2027-04-11"
   },
   {
@@ -185,12 +185,6 @@
     "cert_code": "16755C02240301",
     "issuance": "2024-03-16",
     "expiration": "2027-03-15"
-  },
-  {
-    "company": "Modern Arch LLC",
-    "cert_code": "US037639C02240301",
-    "issuance": "2024-03-29",
-    "expiration": "2027-03-28"
   },
   {
     "company": "Kougioumtzis M and Co L.P",
@@ -391,10 +385,10 @@
     "expiration": "2029-04-13"
   },
   {
-    "company": "",
-    "cert_code": "",
-    "issuance": "",
-    "expiration": ""
+    "company": "OrthoTiN LLC",
+    "cert_code": "C02 US041024 2605 Rev.00",
+    "issuance": "2026-05-25",
+    "expiration": "2029-05-24"
   }
 ]
 }
