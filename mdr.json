@@ -149,6 +149,12 @@
     "cert_code": "C08 IN040338 2604 Rev.00",
     "issuance": "2026-04-27",
     "expiration": "2031-04-26"
+  },
+  {
+    "company": "OrthoTiN LLC",
+    "cert_code": "C08 US041024 2605 Rev.00",
+    "issuance": "2026-05-25",
+    "expiration": "2031-05-24"
   }
 ]
 }
