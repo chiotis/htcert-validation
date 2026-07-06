@@ -20,15 +20,21 @@
   },
   {
     "company": "Th. Kazantzidis S.A. - MEDIPAC",
-    "cert_code": "C08 GR027637 2412 Rev.01",
-    "issuance": "2026-02-09",
+    "cert_code": "C08 GR027637 2412 Rev.02",
+    "issuance": "2026-03-16",
     "expiration": "2029-12-19"
   },
   {
     "company": "Th. Kazantzidis S.A. - MEDIPAC",
-    "cert_code": "C07 GR027637 2412 Rev.01",
-    "issuance": "2025-03-06",
+    "cert_code": "C07 GR027637 2412 Rev.02",
+    "issuance": "2026-03-16",
     "expiration": "2029-12-19"
+  },
+  {
+    "company": "Th. Kazantzidis S.A. - MEDIPAC",
+    "cert_code": "C07 GR027637 2603 Rev.00",
+    "issuance": "2026-03-16",
+    "expiration": "2031-03-15"
   },
   {
     "company": "Aurolab",
@@ -155,6 +161,12 @@
     "cert_code": "C08 US041024 2605 Rev.00",
     "issuance": "2026-05-25",
     "expiration": "2031-05-24"
+  },
+  {
+    "company": "Phytopharm Klęka SA",
+    "cert_code": "C08 PL042103 2606 Rev.00",
+    "issuance": "2026-06-16",
+    "expiration": "2031-06-15"
   }
 ]
 }
