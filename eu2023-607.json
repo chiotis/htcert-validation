@@ -17,8 +17,8 @@
   },
   {
     "company": "SURGIMEDIC",
-    "cert_code": "EG_037019_2024_01",
-    "issuance": "2024-04-29"
+    "cert_code": "EG_037019_2026_02",
+    "issuance": "2026-07-02"
   },
   {
     "company": "AKRA DERMOJET",
@@ -37,8 +37,8 @@
   },
   {
     "company": "SIDAPHARM P.C.",
-    "cert_code": "GR_016490_2024_02",
-    "issuance": "2024-05-20"
+    "cert_code": "GR_016490_2026_03",
+    "issuance": "2026-07-01"
   },
   {
     "company": "DEMO SA Pharmaceutical Industry",
@@ -79,11 +79,6 @@
     "company": "ESTAŞ TIBBİ MAMÜLLERİ MEDİKAL CİH. OTOMOTİV İML. İTH. İHR VE TİC. SAN. AŞ.",
     "cert_code": "TR_021183_2024_03",
     "issuance": "2024-05-14"
-  },
-  {
-    "company": "Disposed Health Products",
-    "cert_code": "TR_014941_24_02",
-    "issuance": "2024-08-05"
   },
   {
     "company": "Gnomon Informatics S.A.",
@@ -248,11 +243,6 @@
   {
     "company": "Javelin Tibbi Cihazlar Sanayi ve Ticaret Ltd. Sti.",
     "cert_code": "TR_037979_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
-    "company": "İZMİR MEDİKAL SAN. VE TİC. A.Ş.",
-    "cert_code": "T15538_2024_02",
     "issuance": "2024-09-26"
   },
   {
@@ -424,6 +414,11 @@
     "company": "SIORA SURGICALS PRIVATE LIMITED",
     "cert_code": "IN_036226_26_02",
     "issuance": "2026-04-09"
+  },
+  {
+    "company": "Health Information Management GmbH",
+    "cert_code": "DE_024708_26_01",
+    "issuance": "2026-03-01"
   }
 ]
 }
