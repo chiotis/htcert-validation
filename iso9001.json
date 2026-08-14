@@ -59,6 +59,12 @@
     "cert_code": "C01 EL044671 2603 Rev.00",
     "issuance": "2026-03-18",
     "expiration": "2028-08-01"
+  },
+  {
+    "company": "DEMO S.A.",
+    "cert_code": "C01 GR023096 2607 Rev.00",
+    "issuance": "2026-07-22",
+    "expiration": "2029-07-21"
   }
 ]
 }
