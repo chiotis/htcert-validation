@@ -37,8 +37,8 @@
   },
   {
     "company": "SIDAPHARM P.C.",
-    "cert_code": "GR_016490_2026_03",
-    "issuance": "2026-07-01"
+    "cert_code": "GR_016490_2026_04",
+    "issuance": "2026-07-31"
   },
   {
     "company": "DEMO SA Pharmaceutical Industry",
@@ -101,11 +101,6 @@
     "issuance": "2024-09-06"
   },
   {
-    "company": "STROUMPOS  CHARALAMPOS - Dental materials and manufacturing solutions",
-    "cert_code": "T13441_2024_01",
-    "issuance": "2024-06-19"
-  },
-  {
     "company": "Rumex International Ltd.",
     "cert_code": "GB_023374_2024_01",
     "issuance": "2024-05-26"
@@ -164,11 +159,6 @@
     "company": "FREZYDERM INDUSTRIAL AND COMMERCIAL COMPANY OF COSMETICS MEDICINES NUTRITION S.A.",
     "cert_code": "GR_026932_2024_02",
     "issuance": "2024-09-26"
-  },
-  {
-    "company": "Cardiohealth Tibbi Urunler A.S.",
-    "cert_code": "TR_036994_2024_04",
-    "issuance": "2024-09-04"
   },
   {
     "company": "TULES MEDİKAL SANAYİ VE TİCARET A.Ş.",
@@ -247,8 +237,8 @@
   },
   {
     "company": "SmartCardia SA",
-    "cert_code": "CH_030647_2024_01",
-    "issuance": "2024-05-08"
+    "cert_code": "CH_030647_2026_02",
+    "issuance": "2026-07-20"
   },
   {
     "company": "MEDWAY INC",
@@ -419,6 +409,11 @@
     "company": "Health Information Management GmbH",
     "cert_code": "DE_024708_26_01",
     "issuance": "2026-03-01"
+  },
+  {
+    "company": "Kaushik Orthopaedic Private Limited",
+    "cert_code": "IN_035697_26_01",
+    "issuance": "2026-07-13"
   }
 ]
 }
