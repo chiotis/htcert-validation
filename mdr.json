@@ -56,8 +56,8 @@
   },
   {
     "company": "MEL Medical GmbH",
-    "cert_code": "C09 DE042395 2504 Rev.00",
-    "issuance": "2025-04-11",
+    "cert_code": "C09 DE042395 2504 Rev.01",
+    "issuance": "2026-08-04",
     "expiration": "2030-04-10"
   },
   {
@@ -86,20 +86,20 @@
   },
   {
     "company": "GrupA Medikal Tekstil Tibbi Mal. Iklim. San. Ve Tic. Ltd",
-    "cert_code": "C09 TR027332 2601 Rev.00",
-    "issuance": "2026-01-12",
+    "cert_code": "C09 TR027332 2601 Rev.01",
+    "issuance": "2026-08-04",
     "expiration": "2031-01-11"
   },
   {
     "company": "EYE-PCR B.V.",
-    "cert_code": "C07 NL037443 2601 Rev.00",
-    "issuance": "2026-01-07",
+    "cert_code": "C07 NL037443 2601 Rev.01",
+    "issuance": "2026-07-24",
     "expiration": "2031-01-06"
   },
   {
     "company": "EYE-PCR B.V.",
-    "cert_code": "C08 NL037443 2601 Rev.00",
-    "issuance": "2026-01-07",
+    "cert_code": "C08 NL037443 2601 Rev.02",
+    "issuance": "2026-07-24",
     "expiration": "2031-01-06"
   },
   {
@@ -167,6 +167,30 @@
     "cert_code": "C08 PL042103 2606 Rev.00",
     "issuance": "2026-06-16",
     "expiration": "2031-06-15"
+  },
+  {
+    "company": "Brassica Pharma Private Limited",
+    "cert_code": "C08 IN042789 2607 Rev.00",
+    "issuance": "2026-07-06",
+    "expiration": "2031-07-05"
+  },
+  {
+    "company": "DEMO S.A.",
+    "cert_code": "C08 GR023096 2607 Rev.00",
+    "issuance": "2026-07-22",
+    "expiration": "2031-07-21"
+  },
+  {
+    "company": "SOLUDIA MAGHREB Limited campany",
+    "cert_code": "C08 MA041538 2607 Rev.00",
+    "issuance": "2026-07-24",
+    "expiration": "2031-07-23"
+  },
+  {
+    "company": "TAM TELESANTE",
+    "cert_code": "C08 FR011362 2607 Rev.00",
+    "issuance": "2026-07-24",
+    "expiration": "2031-07-23"
   }
 ]
 }
