@@ -38,9 +38,9 @@
   },
   {
     "company": "Scyon Orthopaedics AG",
-    "cert_code": "1224C02260603",
-    "issuance": "2026-06-10",
-    "expiration": "2026-07-28"
+    "cert_code": "C02 CH002471 2606 Rev.00",
+    "issuance": "2026-07-29",
+    "expiration": "2029-07-28"
   },
   {
     "company": "Egyptian group for medical industries",
@@ -62,8 +62,8 @@
   },
   {
     "company": "SmartCardia SA",
-    "cert_code": "C02 CH030647 2602 Rev.00",
-    "issuance": "2026-02-19",
+    "cert_code": "C02 CH030647 2602 Rev.01",
+    "issuance": "2026-07-20",
     "expiration": "2029-02-18"
   },
   {
@@ -113,12 +113,6 @@
     "cert_code": "2211C02231202",
     "issuance": "2023-12-14",
     "expiration": "2026-12-13"
-  },
-  {
-    "company": "İZMİR MEDİKAL SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-    "cert_code": "C02 T15538 2405 Rev.00",
-    "issuance": "2024-05-24",
-    "expiration": "2027-05-23"
   },
   {
     "company": "Agetis supplements Ltd",
@@ -395,6 +389,36 @@
     "cert_code": "C02 DE024708 2606 Rev.00",
     "issuance": "2026-06-16",
     "expiration": "2029-06-15"
+  },
+  {
+    "company": "Phytopharm Klęka SA",
+    "cert_code": "C02 PL042103 2605 Rev.00",
+    "issuance": "2026-06-16",
+    "expiration": "2029-06-15"
+  },
+  {
+    "company": "DEMO S.A.",
+    "cert_code": "C02 GR023096 2607 Rev.00",
+    "issuance": "2026-07-22",
+    "expiration": "2029-07-21"
+  },
+  {
+    "company": "Centaur Pharmaceuticals Private Limited",
+    "cert_code": "C02 QMS27348 2607 Rev.00",
+    "issuance": "2026-07-22",
+    "expiration": "2029-07-21"
+  },
+  {
+    "company": "SOLUDIA MAGHREB Limited campany",
+    "cert_code": "C02 MA041538 2607 Rev.00",
+    "issuance": "2026-07-24",
+    "expiration": "2029-07-23"
+  },
+  {
+    "company": "TAM TELESANTE",
+    "cert_code": "C02 FR011326 2607 Rev. 00",
+    "issuance": "2026-07-24",
+    "expiration": "2029-07-23"
   }
 ]
 }
