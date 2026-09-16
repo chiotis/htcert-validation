@@ -110,7 +110,7 @@
   },
   {
     "company": "EmCyte Corporation",
-    "cert_code": "C08 US037400 2601 Rev.00",
+    "cert_code": "C08 US037400 2601 Rev.00 ",
     "issuance": "2026-01-27",
     "expiration": "2031-01-26"
   },
@@ -191,6 +191,12 @@
     "cert_code": "C08 FR011362 2607 Rev.00",
     "issuance": "2026-07-24",
     "expiration": "2031-07-23"
+  },
+  {
+    "company": "SHAH EYE CARE PRIVATE LIMITED",
+    "cert_code": "C08 IN033189 2608 Rev.00",
+    "issuance": "2026-08-12",
+    "expiration": "2031-08-11"
   }
 ]
 }
