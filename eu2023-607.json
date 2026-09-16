@@ -216,11 +216,6 @@
     "issuance": "2024-09-26"
   },
   {
-    "company": "UltralinQ Healthcare Solutions Inc.",
-    "cert_code": "US30610_2024_02",
-    "issuance": "2024-09-26"
-  },
-  {
     "company": "Neurosynaptic Communications Private Limited",
     "cert_code": "IN_015562_2024_01",
     "issuance": "2024-05-13"
@@ -262,7 +257,7 @@
   },
   {
     "company": "Albset-EU Sh.P.K",
-    "cert_code": "AL_031133_2024_02",
+    "cert_code": "AL_031133_2024_02 ",
     "issuance": "2024-09-26"
   },
   {
@@ -366,7 +361,7 @@
     "issuance": "2024-09-14"
   },
   {
-    "company": "CILITA Limited Liability Company",
+    "company": "\tCILITA Limited Liability Company",
     "cert_code": "RU_041168_2024_02",
     "issuance": "2024-09-26"
   },
