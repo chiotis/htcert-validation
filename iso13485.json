@@ -32,9 +32,9 @@
   },
   {
     "company": "Mavera Tıbbi Cihazlar A.Ş.",
-    "cert_code": "1181C02230802",
-    "issuance": "2023-08-26",
-    "expiration": "2026-08-27"
+    "cert_code": "C02 TR019781 2608 Rev.00",
+    "issuance": "2026-08-28",
+    "expiration": "2029-08-27"
   },
   {
     "company": "Scyon Orthopaedics AG",
@@ -98,8 +98,8 @@
   },
   {
     "company": "ISOMed S.a.r.l.",
-    "cert_code": "C02 FR018485 2605 Rev.00",
-    "issuance": "2026-05-29",
+    "cert_code": "C02 FR018485 2605 Rev.01",
+    "issuance": "2026-09-03",
     "expiration": "2027-04-11"
   },
   {
@@ -403,10 +403,10 @@
     "expiration": "2029-07-23"
   },
   {
-    "company": "STROUMPOS H E-DENTAL",
-    "cert_code": "C02 T13441 2408 Rev.01",
-    "issuance": "2024-08-26",
-    "expiration": "2027-08-25"
+    "company": "Lightfield",
+    "cert_code": "C02 QMS27729 2609 Rev.00",
+    "issuance": "2026-09-14",
+    "expiration": "2029-09-13"
   }
 ]
 }
