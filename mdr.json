@@ -80,8 +80,8 @@
   },
   {
     "company": "Digestaid - Artificial Intelligence Development, SA",
-    "cert_code": "C08 PT031654 2512 Rev.00",
-    "issuance": "2025-12-04",
+    "cert_code": "C08 PT031654 2512 Rev.01",
+    "issuance": "2026-11-03",
     "expiration": "2030-12-03"
   },
   {
@@ -182,9 +182,9 @@
   },
   {
     "company": "SOLUDIA MAGHREB Limited campany",
-    "cert_code": "C08 MA041538 2607 Rev.00",
-    "issuance": "2026-07-24",
-    "expiration": "2031-07-23"
+    "cert_code": "C08 MA041538 2608 Rev.00",
+    "issuance": "2026-08-31",
+    "expiration": "2031-08-30"
   },
   {
     "company": "TAM TELESANTE",
@@ -197,6 +197,24 @@
     "cert_code": "C08 IN033189 2608 Rev.00",
     "issuance": "2026-08-12",
     "expiration": "2031-08-11"
+  },
+  {
+    "company": "SURGICON AG",
+    "cert_code": "C08 CH020566 2609 Rev.00",
+    "issuance": "2026-10-01",
+    "expiration": "2028-01-30"
+  },
+  {
+    "company": "TAISIER-MED SAE",
+    "cert_code": "C08 EG013855 2610 Rev.00",
+    "issuance": "2026-10-29",
+    "expiration": "2031-10-28"
+  },
+  {
+    "company": "TAISIER-MED SAE",
+    "cert_code": "C07 EG013855 2610 Rev.00",
+    "issuance": "2026-10-29",
+    "expiration": "2031-10-28"
   }
 ]
 }
