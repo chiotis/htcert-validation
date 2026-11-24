@@ -392,9 +392,9 @@
   },
   {
     "company": "SOLUDIA MAGHREB Limited campany",
-    "cert_code": "C02 MA041538 2607 Rev.00 ",
-    "issuance": "2026-07-24",
-    "expiration": "2029-07-23"
+    "cert_code": "C02 MA041538 2608 Rev.00 ",
+    "issuance": "2026-08-31",
+    "expiration": "2029-08-30"
   },
   {
     "company": "TAM TELESANTE",
@@ -403,10 +403,16 @@
     "expiration": "2029-07-23"
   },
   {
-    "company": "Lightfield",
-    "cert_code": "C02 QMS27729 2609 Rev.00",
-    "issuance": "2026-09-14",
-    "expiration": "2029-09-13"
+    "company": "İZMİR MEDİKAL SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+    "cert_code": "C02 T15538 2405 Rev.00",
+    "issuance": "2024-05-24",
+    "expiration": "2027-05-23"
+  },
+  {
+    "company": "CP Medical Technology GmbH",
+    "cert_code": "C02 QMS26347 2610 Rev.00",
+    "issuance": "2026-10-15",
+    "expiration": "2029-10-14"
   }
 ]
 }
